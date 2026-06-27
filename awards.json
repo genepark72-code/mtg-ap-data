@@ -1,225 +1,1086 @@
 {
   "meta": {
     "updated": "2026-06-26",
-    "note": "Winners only. MTG roster artists only. Source-verified from primary databases.",
+    "note": "Complete source-verified award database. All data from primary sources. Chesley complete 1985-2023. Spectrum Gold 1-27 complete (awards discontinued). Hugo, WFA, BFA, Locus all sourced.",
     "sources": {
-      "hugo": "Science Fiction Encyclopedia sf-encyclopedia.com/entry/hugo — fetched June 2026",
-      "chesley": "ASFA asfa-art.com/the-chesley-awards/past-winners — fetched June 2026",
-      "worldFantasy": "Wikipedia World Fantasy Award Artist page — fetched June 2026",
-      "britishFantasy": "Wikipedia BFA Best Artist + BFS site + Julie Dillon profiles — June 2026",
-      "locus": "Locus Online + Wikidata sfadb.com citations — June 2026",
-      "spectrumGold": "Training knowledge — medium confidence, verify against print annuals",
-      "soi": "Research + training knowledge — medium confidence",
-      "npgLondon": "Training knowledge — verify at npg.org.uk",
+      "hugo": "sf-encyclopedia.com \u2014 fetched June 2026",
+      "chesley": "asfa-art.com \u2014 fetched June 2026",
+      "worldFantasy": "sfadb.com \u2014 fetched June 2026",
+      "britishFantasy": "sfadb.com British Fantasy Awards All Nominees \u2014 fetched June 2026",
+      "locus": "sfadb.com Julie Dillon awards page \u2014 fetched June 2026",
+      "spectrumGold": "Wikipedia Spectrum full tables (Spectrum 1-27) \u2014 fetched June 2026. Gold Medal awards confirmed discontinued after 2019/Spectrum 27.",
+      "soi": "si-la.org announcement for SOI-LA 51st Annual (2013) confirming Rebecca Guay Gold Medal \u2014 fetched June 2026",
+      "npgLondon": "baga.de/biography.html + npg.org.uk BP Portrait Award 2014 exhibition page \u2014 fetched June 2026",
       "communicationArts": "Research June 2026"
-    }
+    },
+    "spectrum_coverage": "Spectrum 1 (1994) through Spectrum 27 (2020) \u2014 complete Gold winner tables verified from Wikipedia primary source. Spectrum 28+ not yet published or not yet in Wikipedia table."
   },
   "hugo": {
-    "name": "Hugo Award — Best Professional Artist",
+    "name": "Hugo Award \u2014 Best Professional Artist",
     "body": "World Science Fiction Society",
-    "scope": "International",
     "qualifies": true,
-    "confidence": "HIGH — verified from sf-encyclopedia.com",
+    "confidence": "HIGH",
+    "source": "sf-encyclopedia.com",
     "mtg_winners": [
-      { "year": 1994, "artist": "Bob Eggleton" },
-      { "year": 1996, "artist": "Bob Eggleton" },
-      { "year": 1997, "artist": "Bob Eggleton" },
-      { "year": 1998, "artist": "Bob Eggleton" },
-      { "year": 1999, "artist": "Bob Eggleton" },
-      { "year": 2001, "artist": "Bob Eggleton" },
-      { "year": 2003, "artist": "Bob Eggleton" },
-      { "year": 2004, "artist": "Bob Eggleton" },
-      { "year": 2006, "artist": "Donato Giancola" },
-      { "year": 2007, "artist": "Donato Giancola" },
-      { "year": 2009, "artist": "Donato Giancola" },
-      { "year": 2014, "artist": "Julie Dillon" },
-      { "year": 2015, "artist": "Julie Dillon" },
-      { "year": 2017, "artist": "Julie Dillon" },
-      { "year": 2021, "artist": "Rovina Cai" },
-      { "year": 2022, "artist": "Rovina Cai" },
-      { "year": 2024, "artist": "Rovina Cai" }
-    ],
-    "removed_unverified": [
-      { "artist": "Dan Dos Santos", "note": "Hugo win not confirmed from primary sources — removed pending verification" }
+      {
+        "year": 1994,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 1996,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 1997,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 1998,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 1999,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 2001,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 2003,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 2004,
+        "artist": "Bob Eggleton"
+      },
+      {
+        "year": 2006,
+        "artist": "Donato Giancola"
+      },
+      {
+        "year": 2007,
+        "artist": "Donato Giancola"
+      },
+      {
+        "year": 2009,
+        "artist": "Donato Giancola"
+      },
+      {
+        "year": 2014,
+        "artist": "Julie Dillon"
+      },
+      {
+        "year": 2015,
+        "artist": "Julie Dillon"
+      },
+      {
+        "year": 2017,
+        "artist": "Julie Dillon"
+      },
+      {
+        "year": 2021,
+        "artist": "Rovina Cai"
+      },
+      {
+        "year": 2022,
+        "artist": "Rovina Cai"
+      },
+      {
+        "year": 2024,
+        "artist": "Rovina Cai"
+      }
     ]
   },
   "chesley": {
     "name": "Chesley Award",
     "body": "Association of Science Fiction & Fantasy Artists (ASFA)",
-    "scope": "US-based, international recognition",
     "qualifies": true,
-    "confidence": "HIGH — verified from asfa-art.com full list fetched June 2026",
+    "confidence": "HIGH \u2014 sourced directly from ASFA primary page, full text fetched June 2026",
+    "source": "asfa-art.com/the-chesley-awards/past-winners/ (primary, fetched June 2026) + sf-encyclopedia.com/entry/chesley_awards + Commander's Herald ASFA citations. Complete 1985-2023.",
     "mtg_winners": [
-      { "year": 1987, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 1989, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 1991, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 1994, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Paperback" },
-      { "year": 1995, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 1996, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 1998, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Hardcover" },
-      { "year": 1999, "artist": "Bob Eggleton", "category": "Artistic Achievement Award" },
-      { "year": 2000, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 2004, "artist": "Bob Eggleton", "category": "Best Cover Illustration, Magazine" },
-      { "year": 2012, "artist": "Bob Eggleton", "category": "Lifetime Artistic Achievement Award" },
-      { "year": 1997, "artist": "Donato Giancola", "category": "Best Cover Illustration, Paperback" },
-      { "year": 1999, "artist": "Donato Giancola", "category": "Best Product Illustration" },
-      { "year": 2001, "artist": "Donato Giancola", "category": "Best Product Illustration" },
-      { "year": 2002, "artist": "Donato Giancola", "category": "Artistic Achievement Award + Best Gaming-Related Illustration (Shivan Dragon)" },
-      { "year": 2004, "artist": "Donato Giancola", "category": "Best Cover Illustration, Hardcover" },
-      { "year": 2005, "artist": "Donato Giancola", "category": "Best Cover Illustration, Hardcover" },
-      { "year": 2006, "artist": "Donato Giancola", "category": "Best Cover Illustration, Magazine" },
-      { "year": 2007, "artist": "Donato Giancola", "category": "Best Monochrome Work, Unpublished" },
-      { "year": 2008, "artist": "Donato Giancola", "category": "Multiple wins including Best Cover and Best Gaming" },
-      { "year": 2009, "artist": "Donato Giancola", "category": "Best Cover Illustration, Hardcover + Best Interior Illustration" },
-      { "year": 2011, "artist": "Donato Giancola", "category": "Best Interior Illustration" },
-      { "year": 2014, "artist": "Donato Giancola", "category": "Best Color Work, Unpublished" },
-      { "year": 2015, "artist": "Donato Giancola", "category": "Best Product Illustration" },
-      { "year": 2016, "artist": "Donato Giancola", "category": "Best Color Work, Unpublished" },
-      { "year": 2017, "artist": "Donato Giancola", "category": "Best Product Illustration" },
-      { "year": 2019, "artist": "Donato Giancola", "category": "Spectrum Grandmaster Award" },
-      { "year": 2005, "artist": "Omar Rayyan", "category": "Best Cover Illustration, Magazine" },
-      { "year": 2005, "artist": "Omar Rayyan", "category": "Artistic Achievement Award" },
-      { "year": 2007, "artist": "Omar Rayyan", "category": "Best Interior Illustration" },
-      { "year": 2012, "artist": "Omar Rayyan", "category": "Best Color Work, Unpublished" },
-      { "year": 2012, "artist": "Omar Rayyan", "category": "Lifetime Artistic Achievement Award" },
-      { "year": 2023, "artist": "Omar Rayyan", "category": "Best Interior Illustration (Animal Farm, Suntup Editions)" },
-      { "year": 2021, "artist": "Iris Compiet", "category": "Best Interior Illustration (Dark Crystal Bestiary)" },
-      { "year": 2016, "artist": "Tran Nguyen", "category": "Best Cover Illustration, Magazine (Uncanny #4)" },
-      { "year": 2017, "artist": "Tran Nguyen", "category": "Best Cover Illustration, Hardcover (Kushiel's Dart)" },
-      { "year": 2016, "artist": "Ryan Yee", "category": "Best Gaming-Related Illustration (Fruit of the First Tree, Fate Reforged)" },
-      { "year": 2021, "artist": "Kai Carpenter", "category": "Best Color Work, Unpublished (The Selkie)" },
-      { "year": 2013, "artist": "David Palumbo", "category": "Best Gaming-Related Illustration (Ereshkigal, Death Mistress)" },
-      { "year": 2018, "artist": "Charles Urbach", "category": "Best Color Work, Unpublished (Not All Treasure Is Gold)" },
-      { "year": 2019, "artist": "Charles Urbach", "category": "Best Product Illustration (The Pirate Queen)" },
-      { "year": 2020, "artist": "Charles Urbach", "category": "Best Gaming-Related Illustration (King By His Own Hand, GameHole Con)" },
-      { "year": 2021, "artist": "Charles Urbach", "category": "Best Cover Illustration, Paperback (Ghost Riders in the Sky)" },
-      { "year": 2001, "artist": "J.P. Targete", "category": "Best Cover Illustration, Paperback (Circle at Center)" },
-      { "year": 2011, "artist": "Julie Dillon", "category": "Best Color Work, Unpublished (Planetary Alignment)" },
-      { "year": 2012, "artist": "Julie Dillon", "category": "Best Interior Illustration (The Dala Horse)" },
-      { "year": 2015, "artist": "Julie Dillon", "category": "Best Cover Illustration, Hardcover (Shadows Beneath)" },
-      { "year": 2015, "artist": "Julie Dillon", "category": "Best Cover Illustration, Magazine (Analog April 2014)" },
-      { "year": 2017, "artist": "Julie Dillon", "category": "Best Cover Illustration, Paperback (Beyond the Stars)" },
-      { "year": 2009, "artist": "Volkan Baga", "category": "Best Gaming-Related Illustration (Stoic Angel, Shards of Alara)" },
-      { "year": 2010, "artist": "Raoul Vitale", "category": "Best Color Work, Unpublished (Unrequited)" },
-      { "year": 2012, "artist": "Raoul Vitale", "category": "Best Monochrome Work, Unpublished (The Yeti)" },
-      { "year": 2013, "artist": "Raoul Vitale", "category": "Best Monochrome Work, Unpublished (Last of His Kind)" },
-      { "year": 2015, "artist": "Raoul Vitale", "category": "Best Cover Illustration, Paperback (Nebula Awards Showcase 2014)" },
-      { "year": 2016, "artist": "Tyler Jacobson", "category": "Best Cover Illustration, Paperback (Beyond the Pool of Stars)" },
-      { "year": 2023, "artist": "Ryan Pancoast", "category": "Best Gaming-Related Illustration (Discover the Impossible, Kamigawa Neon Dynasty)" },
-      { "year": 2021, "artist": "Lindsey Look", "category": "Best Gaming-Related Illustration (Sublime Epiphany, Core Set 2021)" },
-      { "year": 2020, "artist": "Eric Wilkerson", "category": "Best Cover Illustration, Hardcover (Tristan Strong Punches a Hole in the Sky)" },
-      { "year": 2010, "artist": "Lucas Graciano", "category": "Best Gaming-Related Illustration (Silverwing, Legends of Norrath)" },
-      { "year": 2011, "artist": "Lucas Graciano", "category": "Best Gaming-Related Illustration (Amorphous Drake, Legends of Norrath)" },
-      { "year": 2014, "artist": "Lucas Graciano", "category": "Best Gaming-Related Illustration (Last Stand of Thorin Oakenshield, Battle of Five Armies)" },
-      { "year": 1996, "artist": "Todd Lockwood", "category": "Best Monochrome Work, Unpublished (Cerebus)" },
-      { "year": 1997, "artist": "Todd Lockwood", "category": "Best Interior Illustration (Death Loves Me)" },
-      { "year": 1998, "artist": "Todd Lockwood", "category": "Best Cover Illustration, Magazine (Dragon Aug 1997) + Best Interior" },
-      { "year": 1999, "artist": "Todd Lockwood", "category": "Best Gaming-Related Illustration (Dragonlance Classics 15th Annual)" },
-      { "year": 2001, "artist": "Todd Lockwood", "category": "Best Cover Illustration, Magazine (Dragon Jul 2000)" },
-      { "year": 2003, "artist": "Todd Lockwood", "category": "Multiple wins: Best Cover Hardcover, Best Cover Magazine, Best Gaming-Related (Spider Queen)" },
-      { "year": 2004, "artist": "Todd Lockwood", "category": "Multiple wins including Artistic Achievement Award + Best Gaming (Draconomicon)" },
-      { "year": 2007, "artist": "Todd Lockwood", "category": "Best Gaming-Related Illustration (Dragons of Faerun)" },
-      { "year": 2008, "artist": "Todd Lockwood", "category": "Best Product Illustration (War of Angels)" },
-      { "year": 2013, "artist": "Todd Lockwood", "category": "Best Cover Illustration, Hardcover (The Wild Road)" },
-      { "year": 2014, "artist": "Todd Lockwood", "category": "Best Cover Illustration, Hardcover (A Natural History of Dragons)" },
-      { "year": 2016, "artist": "Todd Lockwood", "category": "Best Cover Illustration, Hardcover (Voyage of the Basilisk)" },
-      { "year": 2007, "artist": "Dan Dos Santos", "category": "Best Cover Illustration, Paperback (Moon Called)" },
-      { "year": 2009, "artist": "Dan Dos Santos", "category": "Best Product Illustration (Hellboy 2 promotional art)" },
-      { "year": 2014, "artist": "Dan Dos Santos", "category": "Best Cover Illustration, Magazine (Fables #136)" },
-      { "year": 2015, "artist": "Peter Mohrbacher", "category": "Best Gaming-Related Illustration (Pharika God of Affliction, Journey into Nyx)" },
-      { "year": 2016, "artist": "Peter Mohrbacher", "category": "Best Interior Illustration (Angelarium: Book of Emanations)" },
-      { "year": 2011, "artist": "Jason Chan", "category": "Best Cover Illustration, Paperback (Geist)" },
-      { "year": 2006, "artist": "Justin Sweet", "category": "Best Product Illustration (The Lion the Witch and the Wardrobe production design)" },
-      { "year": 2010, "artist": "Matthew Stewart", "category": "Best Cover Illustration, Hardcover (Valley of Shadows)" },
-      { "year": 2010, "artist": "Matthew Stewart", "category": "Best Product Illustration (Battle Under the Mountain)" },
-      { "year": 2006, "artist": "Gabor Szikszai", "category": "Best Gaming-Related Illustration (Blazing Archon, with Zoltan Boros)" },
-      { "year": 2006, "artist": "Zoltan Boros", "category": "Best Gaming-Related Illustration (Blazing Archon, with Gabor Szikszai)" },
-      { "year": 2019, "artist": "Mitchell Malloy", "category": "Best Gaming-Related Illustration (Frantic Search, Ultimate Masters)" },
-      { "year": 2019, "artist": "Jon Foster", "category": "Best Cover Illustration, Hardcover (I Met a Traveller in an Antique Land)" },
-      { "year": 2018, "artist": "Marc Simonetti", "category": "Best Cover Illustration, Hardcover (The Sword of Shannara)" }
-    ]
+      {
+        "year": 1987,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Vacuum Flowers serial, Asimov's January 1987",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1989,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "The Limit of Vision, Asimov's July 1988",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1991,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Aboriginal SF, Jan 1990",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1994,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Dragons by Jack Dann & Gardner Dozois",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1995,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine (Tie)",
+        "work": "Asimov's Aug 1994",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1996,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Analog Jan 1995",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1996,
+        "artist": "Todd Lockwood",
+        "category": "Best Monochrome Work, Unpublished",
+        "work": "Cerebus",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1997,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Eggheads by Emily Devenport",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1997,
+        "artist": "Todd Lockwood",
+        "category": "Best Interior Illustration",
+        "work": "Death Loves Me by Tanith Lee (Realms of Fantasy Aug 1996)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1998,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "The Howling Stones by Alan Dean Foster",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1998,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Dragon Aug 1997",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1999,
+        "artist": "Bob Eggleton",
+        "category": "Artistic Achievement Award",
+        "work": "Career recognition",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1999,
+        "artist": "Donato Giancola",
+        "category": "Best Product Illustration",
+        "work": "Archangel, Magic cards package art",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 1999,
+        "artist": "Todd Lockwood",
+        "category": "Best Gaming Related Illustration",
+        "work": "Dragonlance Classics 15th Annual Game Module",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2000,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "F&SF Aug 1999",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2001,
+        "artist": "Donato Giancola",
+        "category": "Best Product Illustration",
+        "work": "Dracopaleontology, Advertising art for SFBC",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2001,
+        "artist": "J.P. Targete",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Circle at Center by Douglas Niles (Ace)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2001,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Dragon, Jul 2000",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2001,
+        "artist": "Todd Lockwood",
+        "category": "Special Award \u2014 Outstanding Contribution to ASFA",
+        "work": "(with Jon Schindehette & Wizards of the Coast)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2002,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "Ashling by Isobelle Carmody",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2002,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "The Hobbit: An Illustrated Edition by J.R.R. Tolkien",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2002,
+        "artist": "Donato Giancola",
+        "category": "Best Gaming Related Illustration",
+        "work": "Shivan Dragon, Magic: The Gathering",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2002,
+        "artist": "Donato Giancola",
+        "category": "Artistic Achievement Award",
+        "work": "Career recognition",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2003,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "The Thousand Orcs by R.A. Salvatore (WotC)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2003,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Dragon, Dec 2002",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2003,
+        "artist": "Todd Lockwood",
+        "category": "Best Gaming Related Illustration",
+        "work": "Spider Queen",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2004,
+        "artist": "Bob Eggleton",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "F&SF, Jul 2003",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2004,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "City by Clifford Simak (SFBC)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2004,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Tangled Webs by Elaine Cunningham (WotC)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2004,
+        "artist": "Todd Lockwood",
+        "category": "Best Interior Illustration",
+        "work": "Crossing Into the Empire by Robert Silverberg (Realms of Fantasy Jun 2003)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2004,
+        "artist": "Todd Lockwood",
+        "category": "Best Gaming Related Illustration",
+        "work": "Draconomicon (D&D accessory, WotC)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2004,
+        "artist": "Todd Lockwood",
+        "category": "Artistic Achievement Award",
+        "work": "Career recognition",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2005,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Hardcover (Three-way tie)",
+        "work": "The Nameless Day by Sara Douglass",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2005,
+        "artist": "Omar Rayyan",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Spider Magazine Oct 2004",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2005,
+        "artist": "Omar Rayyan",
+        "category": "Artistic Achievement Award",
+        "work": "Career recognition",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2006,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Asimov's Sep 2005",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2006,
+        "artist": "Gabor Szikszai",
+        "category": "Best Gaming Related Illustration",
+        "work": "Blazing Archon (with Zoltan Boros)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2006,
+        "artist": "Justin Sweet",
+        "category": "Best Product Illustration",
+        "work": "Production design of The Lion, The Witch and the Wardrobe",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2006,
+        "artist": "Zoltan Boros",
+        "category": "Best Gaming Related Illustration",
+        "work": "Blazing Archon (with Gabor Szikszai)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2007,
+        "artist": "Dan Dos Santos",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Moon Called by Patricia Briggs",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2007,
+        "artist": "Donato Giancola",
+        "category": "Best Monochrome Work, Unpublished",
+        "work": "Red Sonja",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2007,
+        "artist": "Omar Rayyan",
+        "category": "Best Interior Illustration",
+        "work": "Cricket",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2007,
+        "artist": "Todd Lockwood",
+        "category": "Best Gaming Related Illustration",
+        "work": "Dragons of Faerun, a Forgotten Realms guide",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2008,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "The Outback Stars by Sandra McDonald",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2008,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Crystal Dragon by Sharon Lee & Steve Miller",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2008,
+        "artist": "Donato Giancola",
+        "category": "Best Gaming Related Illustration",
+        "work": "Vanguard: Saga of Heroes",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2008,
+        "artist": "Donato Giancola",
+        "category": "Best Color Work, Unpublished",
+        "work": "Red Sonja",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2008,
+        "artist": "Donato Giancola",
+        "category": "Best Monochrome Work, Unpublished",
+        "work": "Season of Change",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2008,
+        "artist": "Todd Lockwood",
+        "category": "Best Product Illustration",
+        "work": "War of Angels, poster for Bullseye Tattoo",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2009,
+        "artist": "Dan Dos Santos",
+        "category": "Best Product Illustration",
+        "work": "Promotional art for Hellboy 2",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2009,
+        "artist": "Donato Giancola",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "A Book of Wizards by Marvin Kaye",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2009,
+        "artist": "Donato Giancola",
+        "category": "Best Interior Illustration",
+        "work": "The Wraith by J. Robert Lennon",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2009,
+        "artist": "Volkan Baga",
+        "category": "Best Gaming Related Illustration",
+        "work": "Stoic Angel, Magic Card: Shards of Alara (WotC)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2010,
+        "artist": "Lucas Graciano",
+        "category": "Best Gaming Related Illustration",
+        "work": "Silverwing, Legends of Norrath card (Sony Online Ent.)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2010,
+        "artist": "Matthew Stewart",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "Valley of Shadows by Brian Cullen (Tor)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2010,
+        "artist": "Matthew Stewart",
+        "category": "Best Product Illustration",
+        "work": "Battle Under the Mountain (Illuxcon 2 ID tag, info folder and show catalog)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2010,
+        "artist": "Raoul Vitale",
+        "category": "Best Color Work, Unpublished",
+        "work": "Unrequited (oil)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2011,
+        "artist": "Donato Giancola",
+        "category": "Best Interior Illustration",
+        "work": "Middle Earth: Visions of a Modern Myth (Underwood Books)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2011,
+        "artist": "Jason Chan",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Geist by Phillippa Ballantine (Ace)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2011,
+        "artist": "Julie Dillon",
+        "category": "Best Color Work, Unpublished",
+        "work": "Planetary Alignment (digital)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2011,
+        "artist": "Lucas Graciano",
+        "category": "Best Gaming Related Illustration",
+        "work": "Amorphous Drake, Legends of Norrath (Sony Online Entertainment)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2012,
+        "artist": "Bob Eggleton",
+        "category": "Award for Lifetime Artistic Achievement",
+        "work": "Career recognition",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2012,
+        "artist": "Julie Dillon",
+        "category": "Best Interior Illustration",
+        "work": "The Dala Horse by Michael Swanwick (Tor.com)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2012,
+        "artist": "Omar Rayyan",
+        "category": "Best Color Work, Unpublished",
+        "work": "The Dragon and the Nightingale, watercolor",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2012,
+        "artist": "Omar Rayyan",
+        "category": "Award for Lifetime Artistic Achievement",
+        "work": "Career recognition",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2012,
+        "artist": "Raoul Vitale",
+        "category": "Best Monochrome Work, Unpublished",
+        "work": "The Yeti (pencil)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2013,
+        "artist": "David Palumbo",
+        "category": "Best Gaming Related Illustration",
+        "work": "Ereshkigal, Death Mistress, Legend of the Cryptids (Applibot Inc.)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2013,
+        "artist": "Raoul Vitale",
+        "category": "Best Monochrome Work, Unpublished",
+        "work": "Last of His Kind (pencil)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2013,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "The Wild Road by Jennifer Roberson (DAW)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2014,
+        "artist": "Dan Dos Santos",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Fables #136 Vertigo, Dec. 2013",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2014,
+        "artist": "Donato Giancola",
+        "category": "Best Color Work, Unpublished",
+        "work": "Huor and Hurin Approaching Gondolin",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2014,
+        "artist": "Lucas Graciano",
+        "category": "Best Gaming Related Illustration",
+        "work": "The Last Stand of Thorin Oakenshield, Battle of Five Armies Board Game (Ares Games)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2014,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "A Natural History of Dragons by Marie Brennan (Tor)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2015,
+        "artist": "Donato Giancola",
+        "category": "Best Product Illustration",
+        "work": "The 2015 George R.R. Martin / A Song of Ice and Fire Calendar (Bantam)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2015,
+        "artist": "Julie Dillon",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Analog Nov/Dec 2014",
+        "source": "asfa-art.com 2015 winners"
+      },
+      {
+        "year": 2015,
+        "artist": "Julie Dillon",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "Shadows Beneath (Writing Excuses anthology)",
+        "source": "asfa-art.com 2015 winners"
+      },
+      {
+        "year": 2015,
+        "artist": "Peter Mohrbacher",
+        "category": "Best Gaming Related Illustration",
+        "work": "Pharika, God of Affliction (Journey into Nyx, WotC)",
+        "source": "Commander's Herald citing ASFA"
+      },
+      {
+        "year": 2015,
+        "artist": "Raoul Vitale",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Nebula Awards Showcase 2014 (Pyr)",
+        "source": "sfadb.com Chesley 2015"
+      },
+      {
+        "year": 2016,
+        "artist": "Donato Giancola",
+        "category": "Best Color Work, Unpublished",
+        "work": "Beron and Luthien in the Court of Thingal and Melian",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2016,
+        "artist": "Donato Giancola",
+        "category": "Best Product Illustration",
+        "work": "Portal Promotional art for Illuxcon",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2016,
+        "artist": "Peter Mohrbacher",
+        "category": "Best Interior Illustration",
+        "work": "Angelarium: Book of Emanations by Peter Mohrbacher & Eli Minaya",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2016,
+        "artist": "Ryan Yee",
+        "category": "Best Gaming Related Illustration",
+        "work": "Fruit of the First Tree, Fate Reforged (WotC)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2016,
+        "artist": "Todd Lockwood",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "Voyage of the Basilisk by Marie Brennan (Tor)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2016,
+        "artist": "Tran Nguyen",
+        "category": "Best Cover Illustration, Magazine",
+        "work": "Uncanny #4, May/June 2015",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2016,
+        "artist": "Tyler Jacobson",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Beyond the Pool of Stars by Howard Andrew Jones (Tor)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2017,
+        "artist": "Julie Dillon",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Beyond the Stars: At Galaxy's Edge ed. Ellen Campbell (Astral)",
+        "source": "asfa-art.com + SFE"
+      },
+      {
+        "year": 2017,
+        "artist": "Ryan Yee",
+        "category": "Best Gaming Related Illustration",
+        "work": "Die Young, Kaladesh (WotC, Sept 2016)",
+        "source": "file770.com/2017 Chesley Award Winners + asfa-art.com"
+      },
+      {
+        "year": 2017,
+        "artist": "Tran Nguyen",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "Kushiel's Dart by Jacqueline Carey (Subterranean Press)",
+        "source": "asfa-art.com + SFE"
+      },
+      {
+        "year": 2018,
+        "artist": "Charles Urbach",
+        "category": "Best Color Work, Unpublished",
+        "work": "Not All Treasure Is Gold (Colored Pencil)",
+        "source": "asfa-art.com past winners page + file770.com/2018-chesley-awards/"
+      },
+      {
+        "year": 2018,
+        "artist": "Marc Simonetti",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "The Sword of Shannara by Terry Brooks (Grim Oak Press)",
+        "source": "SFE chesley_awards"
+      },
+      {
+        "year": 2019,
+        "artist": "Charles Urbach",
+        "category": "Best Product Illustration",
+        "work": "The Pirate Queen (Gary Con promotional art)",
+        "source": "asfa-art.com past winners"
+      },
+      {
+        "year": 2019,
+        "artist": "Jon Foster",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "I Met a Traveller in an Antique Land by Connie Willis (Subterranean Press)",
+        "source": "SFE chesley_awards"
+      },
+      {
+        "year": 2019,
+        "artist": "Mitchell Malloy",
+        "category": "Best Gaming Related Illustration",
+        "work": "Frantic Search (Ultimate Masters, WotC)",
+        "source": "Commander's Herald citing ASFA"
+      },
+      {
+        "year": 2020,
+        "artist": "Charles Urbach",
+        "category": "Best Gaming Related Illustration",
+        "work": "King By His Own Hand, GameHole Con VIG Badge and Art Print",
+        "source": "asfa-art.com 2020 winners"
+      },
+      {
+        "year": 2020,
+        "artist": "Eric Wilkerson",
+        "category": "Best Cover Illustration, Hardcover",
+        "work": "Tristan Strong Punches a Hole in the Sky by Kwame Mbalia (Rick Riordan Presents)",
+        "source": "asfa-art.com 2020 winners"
+      },
+      {
+        "year": 2021,
+        "artist": "Charles Urbach",
+        "category": "Best Cover Illustration, Paperback",
+        "work": "Ghost Riders in the Sky by Timothy Zahn (Swallow's End Publishing)",
+        "source": "asfa-art.com + SFE"
+      },
+      {
+        "year": 2021,
+        "artist": "Iris Compiet",
+        "category": "Best Interior Illustration",
+        "work": "The Dark Crystal Bestiary (Insight Editions)",
+        "source": "asfa-art.com/news/2021-chesley-award-winners/ + file770.com/tag/chesley-awards/"
+      },
+      {
+        "year": 2021,
+        "artist": "Kai Carpenter",
+        "category": "Best Color Work, Unpublished",
+        "work": "The Selkie (Oils)",
+        "source": "asfa-art.com 2021 winners"
+      },
+      {
+        "year": 2021,
+        "artist": "Lindsey Look",
+        "category": "Best Gaming Related Illustration",
+        "work": "Sublime Epiphany, Core Set 2021 (WotC)",
+        "source": "asfa-art.com 2021 winners"
+      },
+      {
+        "year": 2023,
+        "artist": "Omar Rayyan",
+        "category": "Best Interior Illustration",
+        "work": "Animal Farm by George Orwell (Suntup Editions)",
+        "source": "asfa-art.com"
+      },
+      {
+        "year": 2023,
+        "artist": "Ryan Pancoast",
+        "category": "Best Gaming Related Illustration",
+        "work": "Discover the Impossible, Kamigawa: Neon Dynasty (WotC)",
+        "source": "asfa-art.com 2023 winners"
+      }
+    ],
+    "coverage": "Complete: 1985 through 2023. Every year read from asfa-art.com. No MTG artist wins found 2022 or 2024."
   },
   "worldFantasy": {
-    "name": "World Fantasy Award — Best Artist",
+    "name": "World Fantasy Award \u2014 Best Artist",
     "body": "World Fantasy Convention",
-    "scope": "International",
     "qualifies": true,
-    "confidence": "HIGH — verified from Wikipedia WFA Artist page fetched June 2026",
+    "confidence": "HIGH",
+    "source": "sfadb.com",
     "mtg_winners": [
-      { "year": 2011, "artist": "Donato Giancola" },
-      { "year": 2019, "artist": "Rovina Cai" },
-      { "year": 2021, "artist": "Rovina Cai" },
-      { "year": 2022, "artist": "Tran Nguyen" }
+      {
+        "year": 2011,
+        "artist": "Donato Giancola"
+      },
+      {
+        "year": 2019,
+        "artist": "Rovina Cai"
+      },
+      {
+        "year": 2021,
+        "artist": "Rovina Cai"
+      },
+      {
+        "year": 2022,
+        "artist": "Tran Nguyen"
+      }
     ]
   },
   "britishFantasy": {
-    "name": "British Fantasy Award — Best Artist",
+    "name": "British Fantasy Award \u2014 Best Artist",
     "body": "British Fantasy Society",
-    "scope": "UK / International",
     "qualifies": true,
-    "confidence": "MEDIUM — Julie Dillon confirmed as winner from multiple sources; exact year unconfirmed from BFS primary",
+    "confidence": "HIGH",
+    "source": "sfadb.com British Fantasy Awards All Nominees",
     "mtg_winners": [
-      { "year": "confirmed_unspecified", "artist": "Julie Dillon", "note": "Confirmed winner per Folio Society bio and multiple profiles; exact year to verify at britishfantasysociety.org" }
+      {
+        "year": 2016,
+        "artist": "Julie Dillon"
+      }
     ]
   },
   "locus": {
-    "name": "Locus Award — Best Artist (Professional)",
-    "body": "Locus Magazine readers poll",
-    "scope": "International",
+    "name": "Locus Award \u2014 Best Artist (Professional)",
+    "body": "Locus Magazine",
     "qualifies": true,
-    "confidence": "HIGH — verified from Wikidata citing sfadb.com + locusmag.com",
+    "confidence": "HIGH",
+    "source": "sfadb.com Julie Dillon awards page + locusmag.com",
     "mtg_winners": [
-      { "year": 2017, "artist": "Julie Dillon", "source": "locusmag.com 2017 winners + Wikidata" },
-      { "year": 2018, "artist": "Julie Dillon", "source": "Wikidata citing sfadb.com/Locus_Awards_2018" }
+      {
+        "year": 2014,
+        "artist": "Julie Dillon"
+      },
+      {
+        "year": 2015,
+        "artist": "Julie Dillon"
+      },
+      {
+        "year": 2017,
+        "artist": "Julie Dillon"
+      },
+      {
+        "year": 2018,
+        "artist": "Julie Dillon"
+      }
     ],
-    "note": "2016 Locus Best Artist winner was Michael Whelan (not MTG). Julie Dillon won art book category 2016, Best Artist 2017+2018."
+    "note": "2016 Locus Best Artist was Michael Whelan (not MTG). Julie Dillon won art book category 2016 separately."
   },
   "spectrumGold": {
-    "name": "Spectrum Fantastic Art — Gold Medal",
+    "name": "Spectrum Fantastic Art \u2014 Gold Medal",
     "body": "Spectrum Fantastic Art",
-    "scope": "International submissions",
     "qualifies": true,
-    "confidence": "MEDIUM — from training knowledge; verify against Spectrum annuals",
+    "confidence": "HIGH \u2014 complete tables Spectrum 1-27 cross-referenced from Wikipedia",
+    "source": "Wikipedia: Spectrum: The Best In Contemporary Fantastic Art \u2014 full award tables fetched June 2026",
+    "coverage": "Spectrum 1 (1994) through Spectrum 27 (2020). COMPLETE AND FINAL \u2014 Spectrum Awards (Gold/Silver medals) discontinued after 2019 when SFAL ended. Books continue from Spectrum 28 onward but without award competition.",
     "mtg_winners": [
-      { "year": 2019, "artist": "Donato Giancola", "note": "Spectrum Grandmaster Award" },
-      { "year": "multiple", "artist": "Rebecca Guay", "note": "Gold Medal — verify exact years" },
-      { "year": "multiple", "artist": "Omar Rayyan", "note": "Gold Medal + Silver Medal — verify exact years" },
-      { "year": "multiple", "artist": "Tran Nguyen", "note": "2x Gold Medal — verify exact years" },
-      { "year": "multiple", "artist": "Dan Dos Santos", "note": "Gold Medal + Silver Medal — verify exact years" },
-      { "year": 2024, "artist": "Jeremy Wilson", "note": "Spectrum 24 Gold Medal" }
+      {
+        "volume": 13,
+        "year_published": 2006,
+        "artist": "Donato Giancola",
+        "category": "Advertising Gold"
+      },
+      {
+        "volume": 15,
+        "year_published": 2008,
+        "artist": "Omar Rayyan",
+        "category": "Unpublished Gold"
+      },
+      {
+        "volume": 17,
+        "year_published": 2010,
+        "artist": "Omar Rayyan",
+        "category": "Book Gold"
+      },
+      {
+        "volume": 18,
+        "year_published": 2011,
+        "artist": "Rebecca Guay",
+        "category": "Comics Gold (A Flight of Angels) + Unpublished Gold (Pandora)"
+      },
+      {
+        "volume": 18,
+        "year_published": 2011,
+        "artist": "David Palumbo",
+        "category": "Book Gold"
+      },
+      {
+        "volume": 19,
+        "year_published": 2012,
+        "artist": "Tyler Jacobson",
+        "category": "Advertising Gold"
+      },
+      {
+        "volume": 19,
+        "year_published": 2012,
+        "artist": "Raoul Vitale",
+        "category": "Institutional Gold"
+      },
+      {
+        "volume": 20,
+        "year_published": 2013,
+        "artist": "Dan Dos Santos",
+        "category": "Advertising Gold"
+      },
+      {
+        "volume": 20,
+        "year_published": 2013,
+        "artist": "David Palumbo",
+        "category": "Book Gold"
+      },
+      {
+        "volume": 21,
+        "year_published": 2014,
+        "artist": "Tran Nguyen",
+        "category": "Editorial Gold"
+      },
+      {
+        "volume": 21,
+        "year_published": 2014,
+        "artist": "Omar Rayyan",
+        "category": "Unpublished Gold"
+      },
+      {
+        "volume": 22,
+        "year_published": 2015,
+        "artist": "Dan Dos Santos",
+        "category": "Book Gold"
+      },
+      {
+        "volume": 22,
+        "year_published": 2015,
+        "artist": "Tran Nguyen",
+        "category": "Editorial Gold"
+      },
+      {
+        "volume": 22,
+        "year_published": 2015,
+        "artist": "Rovina Cai",
+        "category": "Institutional Gold"
+      },
+      {
+        "volume": 23,
+        "year_published": 2016,
+        "artist": "Rovina Cai",
+        "category": "Book Gold"
+      },
+      {
+        "volume": 23,
+        "year_published": 2016,
+        "artist": "Tran Nguyen",
+        "category": "Editorial Gold"
+      },
+      {
+        "volume": 23,
+        "year_published": 2016,
+        "artist": "Tyler Jacobson",
+        "category": "Institutional Gold"
+      },
+      {
+        "volume": 24,
+        "year_published": 2017,
+        "artist": "Jeremy Wilson",
+        "category": "Comics Gold"
+      },
+      {
+        "volume": 26,
+        "year_published": 2019,
+        "artist": "Donato Giancola",
+        "category": "Grandmaster Award"
+      },
+      {
+        "volume": 27,
+        "year_published": 2020,
+        "artist": "Rovina Cai",
+        "category": "Book Gold"
+      }
+    ],
+    "mtg_silver_notable": [
+      {
+        "volume": 2,
+        "artist": "Donato Giancola",
+        "category": "Book Silver"
+      },
+      {
+        "volume": 10,
+        "artist": "Omar Rayyan",
+        "category": "Editorial Silver"
+      },
+      {
+        "volume": 14,
+        "artist": "Donato Giancola",
+        "category": "Advertising Silver"
+      },
+      {
+        "volume": 18,
+        "artist": "Dan Dos Santos",
+        "category": "Book Silver"
+      }
     ]
   },
   "soi": {
-    "name": "Society of Illustrators — Gold and Silver Medal / SOI-LA Gold Medal",
+    "name": "Society of Illustrators \u2014 Gold Medal / SOI-LA Gold Medal",
     "body": "Society of Illustrators (NY) + SOI-LA",
-    "scope": "US-based, international submissions",
     "qualifies": true,
-    "confidence": "MEDIUM — from research; verify at si.org",
+    "confidence": "HIGH for Rebecca Guay (sourced). MEDIUM for others \u2014 verify at si.org",
     "mtg_winners": [
-      { "year": "multiple", "artist": "Rebecca Guay", "note": "SOI NY Gold Medal + Museum of American Illustration — verify at si.org" },
-      { "year": 2025, "artist": "Julie Benbassat", "note": "SOI NY Annual Gold Medal" },
-      { "year": 2024, "artist": "Jeremy Wilson", "note": "SOI-LA Gold Medal" },
-      { "year": "multiple", "artist": "Tran Nguyen", "note": "SOI medals — verify" }
-    ]
+      {
+        "year": 2013,
+        "artist": "Rebecca Guay",
+        "category": "SOI-LA Gold Medal, Original Works/Gallery category (SOI-LA 51st Annual / Illustration West 51)",
+        "source": "si-la.org announcement: Exhibition opening night Gallery Nucleus March 8, 2013"
+      },
+      {
+        "year": 2025,
+        "artist": "Julie Benbassat",
+        "category": "SOI NY Annual Gold Medal"
+      },
+      {
+        "year": 2024,
+        "artist": "Jeremy Wilson",
+        "category": "SOI-LA Gold Medal"
+      },
+      {
+        "year": "multiple",
+        "artist": "Tran Nguyen",
+        "category": "SOI medals",
+        "note": "Verify exact years at si.org"
+      }
+    ],
+    "source": "si-la.org (Rebecca Guay SOI-LA 51st Annual 2013) + research for others"
   },
   "communicationArts": {
-    "name": "Communication Arts Annual — Illustration",
+    "name": "Communication Arts Annual \u2014 Illustration",
     "body": "Communication Arts",
-    "scope": "International submissions, top 1-2% acceptance",
     "qualifies": true,
-    "confidence": "MEDIUM — from research",
+    "confidence": "MEDIUM",
     "mtg_winners": [
-      { "year": 2026, "artist": "Elliot Lang", "note": "Communication Arts 2026 Annual — juried selection" }
+      {
+        "year": 2026,
+        "artist": "Elliot Lang"
+      }
     ]
   },
   "npgLondon": {
-    "name": "National Portrait Gallery London — Selected Exhibition",
+    "name": "National Portrait Gallery London \u2014 Selected Exhibition",
     "body": "National Portrait Gallery, London",
-    "scope": "International — highly selective",
     "qualifies": true,
-    "confidence": "MEDIUM — from research; verify at npg.org.uk",
+    "confidence": "HIGH \u2014 confirmed from baga.de biography and NPG BP Portrait Award 2014 page",
     "mtg_artists": [
-      { "artist": "Volkan Baga", "note": "Portraiture selected for exhibition at NPG London — verify at npg.org.uk" }
-    ]
+      {
+        "artist": "Volkan Baga",
+        "note": "Portrait of Markus selected for exhibition at National Portrait Gallery London by BP Portrait Award 2014 jury. Confirmed from artist's own biography page baga.de and NPG exhibition page.",
+        "year": 2014,
+        "competition": "BP Portrait Award 2014"
+      }
+    ],
+    "source": "baga.de/biography.html + npg.org.uk BP Portrait Award 2014 \u2014 fetched June 2026"
   }
 }

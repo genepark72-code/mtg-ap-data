@@ -1,150 +1,3802 @@
 {
-  "meta": {
-    "source": "Wikipedia: List of Magic: The Gathering artists + Scryfall API",
-    "updated": "2026-06-26",
-    "count": 138
+  "_meta": {
+    "source": "casualplaneswalker.com/artist/ (Scryfall-sourced, live)",
+    "total_artists_on_site": 1557,
+    "total_cards_on_site": 36403,
+    "note": "Card counts are all-printings including reprints (not unique-art counts). Collaboration entries excluded. Source updates continuously from Scryfall.",
+    "last_fetched": "2026-06-26",
+    "count_type": "all_printings"
   },
   "artists": [
-    { "name": "Aaron Boyd", "cards": 5, "first": "Prophecy 2000", "last": "7th Edition 2001" },
-    { "name": "Aaron Miller", "cards": 78, "first": "Theros 2013", "last": "Core Set 2021" },
-    { "name": "Adam Paquette", "cards": 121, "first": "Avacyn Restored 2012", "last": "Core Set 2021" },
-    { "name": "Adam Rex", "cards": 126, "first": "Mirage 1996", "last": "Shadowmoor 2008" },
-    { "name": "Alan Pollack", "cards": 131, "first": "Tempest 1997", "last": "Commander 2015" },
-    { "name": "Aleksi Briclot", "cards": 82, "first": "Champions of Kamigawa 2004", "last": "War of the Spark 2019" },
-    { "name": "Alex Horley-Orlandelli", "cards": 105, "first": "Apocalypse 2001", "last": "Commander 2014" },
-    { "name": "Allen Williams", "cards": 29, "first": "Tempest 1997", "last": "Throne of Eldraine 2019" },
-    { "name": "Amy Weber", "cards": 62, "first": "Alpha 1993", "last": "Fifth Edition 1997" },
-    { "name": "Anson Maddocks", "cards": 112, "first": "Alpha 1993", "last": "Time Spiral 2006" },
-    { "name": "Anthony Francisco", "cards": 35, "first": "Shards of Alara 2008", "last": "Avacyn Restored 2012" },
-    { "name": "Anthony Palumbo", "cards": 82, "first": "Magic 2011", "last": "Core Set 2020" },
-    { "name": "Anthony S. Waters", "cards": 114, "first": "Legends 1994", "last": "Alara Reborn 2009" },
-    { "name": "Arnie Swekel", "cards": 86, "first": "Mercadian Masques 1999", "last": "Time Spiral 2006" },
-    { "name": "Bastien L. Deharme", "cards": 55, "first": "Magic Origins 2015", "last": "Core Set 2021" },
-    { "name": "Bob Eggleton", "cards": 18, "first": "Mirage 1996", "last": "Urza's Saga 1998" },
-    { "name": "Brad Rigney", "cards": 23, "first": "New Phyrexia 2011", "last": "Battle for Zendikar 2015" },
-    { "name": "Brian Snoddy", "cards": 125, "first": "Alpha 1993", "last": "Morningtide 2008" },
-    { "name": "Brom", "cards": 42, "first": "Weatherlight 1997", "last": "Ninth Edition 2005" },
-    { "name": "Carl Critchlow", "cards": 218, "first": "Urza's Saga 1998", "last": "Commander Legends: Battle for Baldur's Gate 2022" },
-    { "name": "Charles Urbach", "cards": 15, "first": "Core Set 2019", "last": "Duskmourn 2024" },
-    { "name": "Chase Stone", "cards": 64, "first": "Magic 2012", "last": "Ixalan 2017" },
-    { "name": "Chippy", "cards": 115, "first": "Mirage 1996", "last": "Gatecrash 2013" },
-    { "name": "Chris Rahn", "cards": 161, "first": "From the Vault: Dragons 2008", "last": "Core Set 2019" },
-    { "name": "Chris Rallis", "cards": 58, "first": "Fate Reforged 2015", "last": "Signature Spellbook: Jace 2018" },
-    { "name": "Christopher Moeller", "cards": 255, "first": "Urza's Saga 1998", "last": "Kaladesh 2016" },
-    { "name": "Christopher Rush", "cards": 123, "first": "Alpha 1993", "last": "Time Spiral 2006", "deceased": true },
-    { "name": "Cliff Childs", "cards": 54, "first": "Innistrad 2011", "last": "Amonkhet 2017" },
-    { "name": "Clint Cearley", "cards": 80, "first": "Commander 2011", "last": "Amonkhet 2017" },
-    { "name": "Cynthia Sheppard", "cards": 50, "first": "Innistrad 2011", "last": "Eldritch Moon 2016" },
-    { "name": "Cyril van der Haegen", "cards": 39, "first": "Fifth Dawn 2004", "last": "Khans of Tarkir 2014" },
-    { "name": "D. Alexander Gregory", "cards": 88, "first": "Mirage 1996", "last": "Magic 2013" },
-    { "name": "Daarken", "cards": 199, "first": "Future Sight 2007", "last": "Core Set 2019" },
-    { "name": "Dan Dos Santos", "cards": 18, "first": "Coldsnap 2006", "last": "Alara Reborn 2009" },
-    { "name": "Dan Frazier", "cards": 153, "first": "Alpha 1993", "last": "Time Spiral 2006" },
-    { "name": "Dan Scott", "cards": 275, "first": "Champions of Kamigawa 2004", "last": "Double Masters 2022" },
-    { "name": "Daniel Ljunggren", "cards": 103, "first": "Worldwake 2010", "last": "Kaladesh 2016" },
-    { "name": "Daren Bader", "cards": 168, "first": "Tempest 1997", "last": "Worldwake 2010" },
-    { "name": "Darrell Riche", "cards": 93, "first": "Nemesis 2000", "last": "Magic 2010" },
-    { "name": "Dave Allsop", "cards": 55, "first": "Champions of Kamigawa 2004", "last": "New Phyrexia 2011" },
-    { "name": "Dave Kendall", "cards": 126, "first": "Coldsnap 2006", "last": "Eldritch Moon 2016" },
-    { "name": "David Palumbo", "cards": 79, "first": "Shards of Alara 2008", "last": "Kaladesh 2016" },
-    { "name": "Diego Andrade", "cards": 12, "first": "Strixhaven 2021", "last": "The Brothers' War 2022" },
-    { "name": "Donato Giancola", "cards": 107, "first": "Mirage 1996", "last": "Magic 2012" },
-    { "name": "Doug Chaffee", "cards": 48, "first": "Tempest 1997", "last": "Time Spiral 2006" },
-    { "name": "Douglas Shuler", "cards": 122, "first": "Alpha 1993", "last": "Ninth Edition 2005" },
-    { "name": "Drew Tucker", "cards": 55, "first": "Alpha 1993", "last": "Eventide 2008" },
-    { "name": "Elliot Lang", "cards": 4, "first": "Streets of New Capenna 2022", "last": "Streets of New Capenna 2022" },
-    { "name": "Eric Wilkerson", "cards": 36, "first": "Core Set 2020 2019", "last": "The Brothers' War 2022" },
-    { "name": "Erol Otus", "cards": 6, "first": "Alpha 1993", "last": "Secret Lair 2025" },
-    { "name": "Eytan Zana", "cards": 28, "first": "Innistrad 2011", "last": "Kaladesh 2016" },
-    { "name": "Franz Vohwinkel", "cards": 107, "first": "Weatherlight 1997", "last": "Shadows over Innistrad 2016" },
-    { "name": "Gabor Szikszai", "cards": 115, "first": "Ravnica 2005", "last": "Magic 2011" },
-    { "name": "Gary Ruddell", "cards": 36, "first": "Mercadian Masques 1999", "last": "Judgment 2002" },
-    { "name": "Glen Angus", "cards": 75, "first": "Mercadian Masques 1999", "last": "Future Sight 2007" },
-    { "name": "Greg Hildebrandt", "cards": 168, "first": "Urza's Destiny 1999", "last": "Alara Reborn 2009" },
-    { "name": "Greg Staples", "cards": 272, "first": "Urza's Saga 1998", "last": "Eldritch Moon 2016" },
-    { "name": "Howard Lyon", "cards": 92, "first": "Lorwyn 2007", "last": "Kaladesh 2016" },
-    { "name": "Igor Kieryluk", "cards": 131, "first": "Zendikar 2009", "last": "Amonkhet 2017" },
-    { "name": "Iris Compiet", "cards": 55, "first": "Urza's Legacy 1999", "last": "Lorwyn Eclipsed 2025" },
-    { "name": "Jack Wang", "cards": 44, "first": "Magic 2013", "last": "Shadows over Innistrad 2016" },
-    { "name": "Jaime Jones", "cards": 102, "first": "Eventide 2008", "last": "Aether Revolt 2017" },
-    { "name": "James Ryman", "cards": 87, "first": "Rise of the Eldrazi 2010", "last": "Kaladesh 2016" },
-    { "name": "Jason Chan", "cards": 75, "first": "Future Sight 2007", "last": "Commander 2015" },
-    { "name": "Jason Felix", "cards": 101, "first": "Zendikar 2009", "last": "Core Set 2019" },
-    { "name": "Jeremy Wilson", "cards": 8, "first": "Streets of New Capenna 2022", "last": "Murders at Karlov Manor 2024" },
-    { "name": "Jesper Ejsing", "cards": 131, "first": "Lorwyn 2007", "last": "Core Set 2019" },
-    { "name": "Jim Murray", "cards": 73, "first": "Darksteel 2004", "last": "Magic Origins 2015" },
-    { "name": "Jim Nelson", "cards": 127, "first": "Tempest 1997", "last": "Magic 2011" },
-    { "name": "Johann Bodin", "cards": 98, "first": "Worldwake 2010", "last": "Core Set 2019" },
-    { "name": "Johannes Voss", "cards": 60, "first": "Scars of Mirrodin 2010", "last": "Kaladesh 2016" },
-    { "name": "John Avon", "cards": 208, "first": "Mirage 1996", "last": "Aether Revolt 2017" },
-    { "name": "John Matson", "cards": 106, "first": "Alliances 1996", "last": "Time Spiral 2006" },
-    { "name": "Jon Foster", "cards": 19, "first": "Mirrodin 2003", "last": "Magic 2010" },
-    { "name": "Jonas De Ro", "cards": 37, "first": "Born of the Gods 2014", "last": "Amonkhet 2017" },
-    { "name": "J.P. Targete", "cards": 27, "first": "Portal 1997", "last": "Duskmourn 2024" },
-    { "name": "Julie Benbassat", "cards": 4, "first": "Lorwyn Eclipsed 2025", "last": "Lorwyn Eclipsed 2025" },
-    { "name": "Julie Dillon", "cards": 91, "first": "Dark Ascension 2012", "last": "Commander Masters 2023" },
-    { "name": "Jung Park", "cards": 52, "first": "Zendikar 2009", "last": "Kaladesh 2016" },
-    { "name": "Justin Sweet", "cards": 66, "first": "Odyssey 2001", "last": "Magic 2011" },
-    { "name": "Kai Carpenter", "cards": 81, "first": "Core Set 2019", "last": "Tarkir: Dragonstorm 2025" },
-    { "name": "Kaja Foglio", "cards": 63, "first": "Arabian Nights 1993", "last": "Darksteel 2004" },
-    { "name": "Karl Kopinski", "cards": 178, "first": "Shards of Alara 2008", "last": "Commander Legends 2020" },
-    { "name": "Karla Ortiz", "cards": 19, "first": "Dragon's Maze 2013", "last": "Eldritch Moon 2016" },
-    { "name": "Kevin Walker", "cards": 436, "first": "Mirage 1996", "last": "Double Masters 2020" },
-    { "name": "Lars Grant-West", "cards": 83, "first": "Legions 2003", "last": "Amonkhet 2017" },
-    { "name": "Lindsey Look", "cards": 14, "first": "Commander 2014", "last": "Amonkhet 2017" },
-    { "name": "Livia Prima", "cards": 66, "first": "Battlebond 2018", "last": "Modern Horizons 3 2024" },
-    { "name": "Lucas Graciano", "cards": 59, "first": "Dark Ascension 2012", "last": "Outlaws of Thunder Junction 2024" },
-    { "name": "Magali Villeneuve", "cards": 95, "first": "Commander 2013", "last": "Core Set 2019" },
-    { "name": "Marc Simonetti", "cards": 7, "first": "Scars of Mirrodin 2010", "last": "Dragons of Tarkir 2015" },
-    { "name": "Mark Poole", "cards": 111, "first": "Alpha 1993", "last": "Fate Reforged 2015" },
-    { "name": "Mark Tedin", "cards": 203, "first": "Alpha 1993", "last": "Double Masters 2022" },
-    { "name": "Mark Zug", "cards": 150, "first": "Stronghold 1998", "last": "Kaladesh 2016" },
-    { "name": "Matt Cavotta", "cards": 179, "first": "Mercadian Masques 1999", "last": "Mirrodin Besieged 2011" },
-    { "name": "Matthew Stewart", "cards": 128, "first": "Future Sight 2007", "last": "Kaladesh 2016" },
-    { "name": "Michael Komarck", "cards": 47, "first": "Future Sight 2007", "last": "Battle for Zendikar 2015" },
-    { "name": "Michael Sutfin", "cards": 81, "first": "Stronghold 1998", "last": "Shadowmoor 2008" },
-    { "name": "Mike Bierek", "cards": 72, "first": "Magic 2010", "last": "Amonkhet 2017" },
-    { "name": "Mitchell Malloy", "cards": 12, "first": "Oath of the Gatewatch 2016", "last": "Modern Horizons 2019" },
-    { "name": "Nils Hamm", "cards": 151, "first": "Future Sight 2007", "last": "Commander Legends: Battle for Baldur's Gate 2022" },
-    { "name": "Noah Bradley", "cards": 92, "first": "Return to Ravnica 2012", "last": "Core Set 2019", "notes": "Removed from MTG 2020" },
-    { "name": "Omar Rayyan", "cards": 16, "first": "Future Sight 2007", "last": "Modern Horizons 3 2024" },
-    { "name": "Paolo Parente", "cards": 125, "first": "Tempest 1997", "last": "Guildpact 2006" },
-    { "name": "Pete Venters", "cards": 282, "first": "Antiquities 1994", "last": "Magic 2011" },
-    { "name": "Peter Mohrbacher", "cards": 45, "first": "Scars of Mirrodin 2010", "last": "Commander 2016" },
-    { "name": "Phil Foglio", "cards": 48, "first": "Antiquities 1994", "last": "Portal Second Age 1998" },
-    { "name": "Ralph Horsley", "cards": 56, "first": "Champions of Kamigawa 2004", "last": "Commander 2015" },
-    { "name": "Randy Gallegos", "cards": 204, "first": "Ice Age 1995", "last": "Doctor Who 2023" },
-    { "name": "Randy 'rk' Post", "cards": 117, "first": "Exodus 1998", "last": "Commander 2015" },
-    { "name": "Raoul Vitale", "cards": 126, "first": "Mirage 1996", "last": "Commander 2021" },
-    { "name": "Raymond Swanland", "cards": 169, "first": "Future Sight 2007", "last": "Duel Decks: Elves vs. Inventors 2018" },
-    { "name": "Rebecca Guay", "cards": 151, "first": "Alliances 1996", "last": "Magic 2010" },
-    { "name": "Rob Alexander", "cards": 145, "first": "Alpha 1993", "last": "Eternal Masters 2016" },
-    { "name": "Ron Spencer", "cards": 234, "first": "Alpha 1993", "last": "Magic 2011" },
-    { "name": "Rovina Cai", "cards": 28, "first": "Strixhaven 2021", "last": "Tarkir: Dragonstorm 2025" },
-    { "name": "Ryan Alexander Lee", "cards": 39, "first": "Born of the Gods 2014", "last": "Amonkhet 2017" },
-    { "name": "Ryan Pancoast", "cards": 210, "first": "Magic 2010", "last": "Tarkir: Dragonstorm 2025" },
-    { "name": "Ryan Yee", "cards": 55, "first": "Magic 2011", "last": "Kaladesh 2016" },
-    { "name": "Seb McKinnon", "cards": 93, "first": "Magic 2013", "last": "Throne of Eldraine 2019" },
-    { "name": "Slawomir Maniak", "cards": 134, "first": "Innistrad 2011", "last": "Core Set 2019" },
-    { "name": "Steve Argyle", "cards": 84, "first": "Shards of Alara 2008", "last": "Battlebond 2018" },
-    { "name": "Steve Prescott", "cards": 203, "first": "Planar Chaos 2007", "last": "Dominaria United 2022" },
-    { "name": "Steven Belledin", "cards": 135, "first": "Coldsnap 2006", "last": "Amonkhet 2017" },
-    { "name": "Svetlin Velinov", "cards": 214, "first": "Worldwake 2010", "last": "Core Set 2019" },
-    { "name": "Terese Nielsen", "cards": 188, "first": "Alliances 1996", "last": "Eldritch Moon 2016", "notes": "WotC relationship ended 2020" },
-    { "name": "Thomas M. Baxa", "cards": 110, "first": "Tempest 1997", "last": "Zendikar 2009" },
-    { "name": "Todd Lockwood", "cards": 73, "first": "Urza's Legacy 1999", "last": "Kaladesh 2016" },
-    { "name": "Tom Wanerstrand", "cards": 69, "first": "Alpha 1993", "last": "Time Spiral 2006" },
-    { "name": "Tony DiTerlizzi", "cards": 89, "first": "Visions 1997", "last": "Unhinged 2004" },
-    { "name": "Titus Lunter", "cards": 83, "first": "Khans of Tarkir 2014", "last": "Battlebond 2018" },
-    { "name": "Tran Nguyen", "cards": 12, "first": "War of the Spark 2019", "last": "Tarkir: Dragonstorm 2025" },
-    { "name": "Tyler Jacobson", "cards": 67, "first": "Return to Ravnica 2012", "last": "Amonkhet 2017" },
-    { "name": "Volkan Baga", "cards": 213, "first": "Coldsnap 2006", "last": "Duskmourn 2024" },
-    { "name": "Warren Mahy", "cards": 65, "first": "Guildpact 2006", "last": "Return to Ravnica 2012" },
-    { "name": "Wayne England", "cards": 111, "first": "Prophecy 2000", "last": "Shadows over Innistrad 2016" },
-    { "name": "Wayne Reynolds", "cards": 153, "first": "Champions of Kamigawa 2004", "last": "Dominaria 2018" },
-    { "name": "Winona Nelson", "cards": 115, "first": "Innistrad 2011", "last": "Core Set 2019" },
-    { "name": "Yeong-Hao Han", "cards": 89, "first": "Commander 2011", "last": "Dominaria 2018" },
-    { "name": "Zack Stella", "cards": 81, "first": "Modern Masters 2013", "last": "Core Set 2019" },
-    { "name": "Zoltan Boros", "cards": 199, "first": "Ravnica 2005", "last": "Amonkhet 2017" }
+    {
+      "name": "A. M. Sartor",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aaron Boyd",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aaron Forsythe",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aaron J. Riley",
+      "cards": 42,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aaron Miller",
+      "cards": 129,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aaron Reed",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Abz J Harding",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adam Burn",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adam Paquette",
+      "cards": 122,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adam Rex",
+      "cards": 100,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adam Vehige",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adam Volker",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adi Granov",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adrian Majkrzak",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adrian Smith",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Adrián Rodríguez Pérez",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aenami",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aeron Ng",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ai Desheng",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ainezu",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Airi Yoshihisa",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "AKAGI",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "AKQA",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Al Davidson",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alan Pollack",
+      "cards": 106,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alan Rabinowitz",
+      "cards": 47,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alayna Danner",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aldo Domínguez",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alejandro Mirabal",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alejandro Pacheco",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aleksi Briclot",
+      "cards": 87,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alessandra Pisano",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Brock",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Dos Diaz",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Horley-Orlandelli",
+      "cards": 100,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Konstad",
+      "cards": 43,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Negrea",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Stone",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alex Tarca",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexander Forssberg",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexander Gering",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexander Khabbazi",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexander Mokhov",
+      "cards": 63,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexander Ostrowski",
+      "cards": 12,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexander Skripnikov",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexandr Leskinen",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexandre Breton",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexandre Chaudret",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexandre Honoré",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alexey Kruglov",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alfonso Santano",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alfven Ato",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alice Xia Zhang",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alicia Mickes",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alina Marica",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alisa Lee",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alison Luhrs",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alix Branwyn",
+      "cards": 50,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Allen Douglas",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Allen Morris",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Allen Panakal",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Allen Williams",
+      "cards": 53,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alli Steele",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Alton Lawson",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Amanda Lee",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Amayagido",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Amy Weber",
+      "cards": 155,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anastasia Balakchina",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anastasia Ovchinnikova",
+      "cards": 66,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anato Finnstark",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andi Rusu",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrea De Dominicis",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrea Piparo",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrea Radeck",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrea Sipl",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrea Tentori Montalto",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andreas Rocha",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andreas Zafiratos",
+      "cards": 63,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andreia Ugrai",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrew Goldhawk",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrew Mar",
+      "cards": 119,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrew Murray",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrew Robinson",
+      "cards": 46,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrew Theophilopoulos",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andrey Kuzinskiy",
+      "cards": 64,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Andréa Blouin",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aniekan Udofia",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anik Sikder",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anna Christenson",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anna Fehr",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anna Mitura-Laskowska",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anna Pavleeva",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anna Podedworna",
+      "cards": 24,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anna Steinbauer",
+      "cards": 89,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Annie Sardelis",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Annie Stegg",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anson Maddocks",
+      "cards": 285,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anthony Devine",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anthony Francisco",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anthony Jones",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anthony Palumbo",
+      "cards": 80,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anthony S. Waters",
+      "cards": 97,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Anton Solovianchyk",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Antonio José Manzanedo",
+      "cards": 76,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "April Lee",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "April Prime",
+      "cards": 20,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Arash Radkia",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ari Nieh",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ariel Olivetti",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ariel Perez",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Arif Wijaya",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Armand Baltazar",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Arnie Swekel",
+      "cards": 69,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Arou",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Arthur Yuan",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Artur Nakhodkin",
+      "cards": 42,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Artur Treffner",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ash Wood",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ashlea Kelly",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ashley Mackenzie",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ashly Lovett",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Audrey Benjaminsen",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Augusto Quirino",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Aurore Folny",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Austin Hsu",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Awanqi (Angela Wang)",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Axel Sauerwald",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ayuko",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Babs Webb",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bachzim",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Barbara Rosiak",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Barbara Witkowska",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bartek Fedyczak",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bartłomiej Gaweł",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bastien Grivet",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bastien L. Deharme",
+      "cards": 72,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bayard Wu",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "BBC Studios",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "BD",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ben Harvey",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ben Hill",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ben Maier",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ben Thompson",
+      "cards": 58,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ben Wootten",
+      "cards": 52,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Benjamin Ee",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Berry",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Betty Jiang",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bill Sienkiewicz",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Billy Christian",
+      "cards": 74,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Blackie del Rio",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bob Eggleton",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bob Petillo",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "BODAX",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Boell Oyino",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bogdan Marica",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bogdan Rezunenko",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Boneface",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bonnie Gabriel",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Borja Pindado",
+      "cards": 55,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brad Rigney",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bradley Williams",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bram Sels",
+      "cards": 61,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brandi Reece",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brandon Dorman",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brandon Kitkouski",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brandon L. Hunt",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brendan Sell",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brent Hollowell",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Despain",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Durfee",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Hagan",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Horton",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Snõddy",
+      "cards": 141,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Valeza",
+      "cards": 111,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brian Yuen",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brigitte Roka",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brittany Austin",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brock Grossman",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brom",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brooklyn Smith",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bruce Brenneise",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bruno Biazotto",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bryan Sola",
+      "cards": 70,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bryan Talbot",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Brynn Metheney",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bryon Wackwitz",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bud Cook",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Bun Toujo",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cai Tingting",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Caio Monteiro",
+      "cards": 86,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Calder Moore",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Camille Alquier",
+      "cards": 37,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Campbell White",
+      "cards": 133,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Canata Katana",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cara Mitten",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carissa Susilo",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carl Critchlow",
+      "cards": 191,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carl Frank",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carlos Dattoli",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carlos Palma Cruchaga",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carly Mazur",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carly Milligan",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carmen Sinek",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carol Azevedo",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Carol Heyer",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Caroline Gariba",
+      "cards": 51,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Casey Gustafson",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cecil Fernando",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chad Kanotz",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Charles Gillespie",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Charles Urbach",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chase Stone",
+      "cards": 117,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chen Weidong",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chibi",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chippy",
+      "cards": 95,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Appelhans",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Bellach",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Clay",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Cold",
+      "cards": 39,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Dien",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Haukap",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris J. Anderson",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Kiritz",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Mooney",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Ostrowski",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Rahn",
+      "cards": 228,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Rallis",
+      "cards": 152,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Seaman",
+      "cards": 98,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chris Tulach",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christian Angel",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christian Dimitrov",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christina Davis",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christina Kraus",
+      "cards": 24,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christine Choi",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christine Couture",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christine Lee Risinger",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christopher Burdett",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christopher Moeller",
+      "cards": 226,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Christopher Rush",
+      "cards": 190,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chuck Lukacs",
+      "cards": 64,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Chun Lo",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cinkai",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ciruelo",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Clare Wong",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Claudiu-Antoniu Magherusan",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Claymore J. Flapdoodle",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cliff Childs",
+      "cards": 60,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cliff Nielsen",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Clint Cearley",
+      "cards": 83,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Clint Langley",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Clint Lockwood",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Clyde Caldwell",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cody Culp",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cole Eastburn",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Colin Boyer",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Colin MacNeil",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Constantin Marin",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Corey Bowen",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Corey D. Macourek",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cornelius Brudi",
+      "cards": 20,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cory Godbey",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cory Trego-Erdner",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cos Koniotis",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cosmin Podar",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Craig Elliott",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Craig Hooper",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Craig J Spearing",
+      "cards": 106,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cristi Balanescu",
+      "cards": 134,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Crystal Fae",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Crystal Sully",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cynthia Sheppard",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Cyril Van Der Haegen",
+      "cards": 37,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "D. Alexander Gregory",
+      "cards": 71,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "D. J. Cleland-Hura",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daarken",
+      "cards": 281,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daisuke Tatsuma",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dallas Williams",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dameon Willich",
+      "cards": 97,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Damian Tedrow",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dan Dos Santos",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dan Frazier",
+      "cards": 317,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dan Mumford",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dan Murayama Scott",
+      "cards": 273,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dan Seagrave",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dan Watson",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dana Knutson",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Danciao",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daneen Wilkerson",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Correia",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Gelon",
+      "cards": 119,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Holt",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Ketchum",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Landerman",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Ljunggren",
+      "cards": 174,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel R. Horne",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Romanovsky",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daniel Zrom",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Danny Schwartz",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dany Orizio",
+      "cards": 50,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Darbury Stenderu",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Darek Zabrocki",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daren Bader",
+      "cards": 167,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Daria Aksenova",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Darius Zablockis",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Darrell Riche",
+      "cards": 84,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Darren Tan",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave Allsop",
+      "cards": 52,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave DeVries",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave Dorman",
+      "cards": 80,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave Geyer",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave Greco",
+      "cards": 12,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave Humpherys",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dave Kendall",
+      "cards": 143,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David A. Cherry",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Astruga",
+      "cards": 56,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Auden Nash",
+      "cards": 42,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Borba",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Curtis",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Day",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Frasheski",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Gaillet",
+      "cards": 56,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Giraud",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Ho",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Horne",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Martin",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David McDarby",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Monette",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David O'Connor",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Palumbo",
+      "cards": 121,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Petersen",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Rapoza",
+      "cards": 48,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Seeley",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Seguin",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Sladek",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Sondered",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Szabo",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "David Álvarez",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dee Nguyen",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Demitrios Feredinos",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Denis Nigmatullin",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Denis Zhbankov",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Denman Rooke",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dennis Detwiller",
+      "cards": 26,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Denys Tsiperko",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dermot Power",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Deruchenko Alexander",
+      "cards": 81,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Devin Elle Kurtz",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Devin Platts",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Diana Cearley",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Diana Franco",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Diana Vick",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dibujante Nocturno",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Diego Gisbert",
+      "cards": 40,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dimitar Marinski",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ding Songjian",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "DiTerlizzi",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dmitriy Mironov",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dmitry Burmak",
+      "cards": 98,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dom Lay",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dom!",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Domco.",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Domenico Cava",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dominick Domingo",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dominik Mayer",
+      "cards": 71,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Don Hazeltine",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Donato Giancola",
+      "cards": 154,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Doug Chaffee",
+      "cards": 40,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Douglas P. Lobo",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Douglas Shuler",
+      "cards": 261,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Douzen",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Drew Baker",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Drew Moss",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Drew Tucker",
+      "cards": 105,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Durion",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Dylan Martens",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "E. M. Gist",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eddie Mendoza",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eddie Schillo",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Edgar Sánchez Hidalgo",
+      "cards": 50,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eduardo Francisco",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Edward P. Beard, Jr.",
+      "cards": 97,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eelis Kyttanen",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Efrem Palacios",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eglė Mosakaitė",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eiji Kaneda",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eilene Cherie",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ekaterina Burmak",
+      "cards": 67,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eli Minaya",
+      "cards": 39,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eliz Roxs",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Elizabeth Peiró",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Elliot Lang",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Elliot Stevens",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Emily Maltby",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Emily Teng",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Emmanuel Shiu",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Emrah Elmasli",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Enishi",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Enora Mercier",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eric Deschamps",
+      "cards": 174,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eric Fortune",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eric Peterson",
+      "cards": 44,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eric Polak",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eric Velhagen",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eric Wilkerson",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Erica Gassalasca-Jape",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Erica Williams",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Erica Yang",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Erikas Perl",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Erion Makuo",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ernanda Souza",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Esad Ribic",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Esuthio",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ethan Fleischer",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Evan Shipard",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Evan Stanley",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Even Amundsen",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Evkay Alkerway",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Evyn Fong",
+      "cards": 45,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Eytan Zana",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fahmi Fauzi",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fajareka Setiawan",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fang Xinyu",
+      "cards": 12,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fang Yue",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fariba Khamseh",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fay Dalton",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fay Jones",
+      "cards": 5,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fernando Falcone",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fesbra",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Filip Burburan",
+      "cards": 135,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Filipe Pagliuso",
+      "cards": 43,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fiona Hsieh",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Flavio Greco Paglia",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Florent Lebrun",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Florian de Gesincourt",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Florian Herold",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Florin Petre Bostan",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Forrest Imel",
+      "cards": 26,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Forrest Schehl",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francesca Baerald",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francesca Resta",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francis Tneh",
+      "cards": 12,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francis Tsai",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francisco Badilla",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francisco Martin",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francisco Miyara",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Francois Dery",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Frank Kelly Freas",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Franz Vohwinkel",
+      "cards": 115,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fred Fields",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fred Harper",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fred Hooper",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fred Rahmqvist",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Fuzichoco",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "G-host Lee",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gaboleps",
+      "cards": 65,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gabor Szikszai",
+      "cards": 53,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gabriel Rubio",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gabriel Tanko",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gal Or",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Games Workshop",
+      "cards": 42,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gao Jianzhang",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gao Yan",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gary Gianni",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gary Laib",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gary Leach",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gary Ruddell",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gavin Verhey",
+      "cards": 2,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gemi",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Geofrey Darrow",
+      "cards": 4,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "George Pratt",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Gerry Grace",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Glen Angus",
+      "cards": 69,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Glenn Fabry",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Goran Josic",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Greg Bobrowski",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Greg Hildebrandt",
+      "cards": 75,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Greg Opalinski",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Greg Simanson",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Greg Spalenka",
+      "cards": 6,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Greg Staples",
+      "cards": 267,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Grzegorz Rutkowski",
+      "cards": 76,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Harold McNeill",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Heather Hudson",
+      "cards": 178,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Hector Ortiz",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Helge C. Balzer",
+      "cards": 43,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Henry Peters",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Henry Van Der Linde",
+      "cards": 3,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Heonhwa Choe",
+      "cards": 50,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Hideaki Takamura",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Hiro Izawa",
+      "cards": 1,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Howard Lyon",
+      "cards": 118,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Hugh Jamieson",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Iain McCaig",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ian Miller",
+      "cards": 26,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Igor Grechanyi",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Igor Kieryluk",
+      "cards": 205,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Igor Krstic",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ilse Gort",
+      "cards": 61,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Irina Nordsol",
+      "cards": 75,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Iris Compiet",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Izzy",
+      "cards": 212,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "J.P. Targete",
+      "cards": 16,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jack Wang",
+      "cards": 42,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jaime Jones",
+      "cards": 105,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jake Murray",
+      "cards": 36,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jakob Eirich",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jakub Kasper",
+      "cards": 69,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jama Jurabaev",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "James Paick",
+      "cards": 87,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "James Ryman",
+      "cards": 102,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "James Zapata",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Janine Johnston",
+      "cards": 14,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jarel Threat",
+      "cards": 37,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jason A. Engle",
+      "cards": 139,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jason Chan",
+      "cards": 71,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jason Felix",
+      "cards": 127,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jason Kang",
+      "cards": 39,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jason Rainville",
+      "cards": 133,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jeremy Jarvis",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jeremy Wilson",
+      "cards": 20,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jerry Tiritilli",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jesper Ejsing",
+      "cards": 210,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jesper Myrfors",
+      "cards": 185,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jim Murray",
+      "cards": 66,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jim Nelson",
+      "cards": 109,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jim Pavelec",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jodie Muir",
+      "cards": 36,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Joe Slucher",
+      "cards": 65,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Joel Thomas",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Johan Grenier",
+      "cards": 62,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Johann Bodin",
+      "cards": 141,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Johannes Voss",
+      "cards": 97,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Avon",
+      "cards": 192,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Bolton",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Coulthart",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Di Giovanni",
+      "cards": 26,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Matson",
+      "cards": 84,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Severin Brassell",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Stanko",
+      "cards": 83,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Tedrick",
+      "cards": 51,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Thacker",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "John Zeleznik",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jokubas Uogintas",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jon Foster",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jonas De Ro",
+      "cards": 93,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jonathan Kuo",
+      "cards": 24,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jorge Jacinto",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Joseph Meehan",
+      "cards": 66,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Joseph Weston",
+      "cards": 24,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Josh Hass",
+      "cards": 71,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Joshua Cairos",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Joshua Raphael",
+      "cards": 78,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Josiah Jo Cameron",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Josu Hernaiz",
+      "cards": 104,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Josu Solano",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "José Parodi",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Julia Metzger",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Julian Kok Joon Wen",
+      "cards": 36,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Julie Baroh",
+      "cards": 54,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Julie Dillon",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Jung Park",
+      "cards": 50,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Justin Gerard",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Justin Sweet",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Justine Cruz",
+      "cards": 42,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Justyna Dura",
+      "cards": 76,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kai Carpenter",
+      "cards": 38,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kaja Foglio",
+      "cards": 84,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kamila Szutenberg",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kari Christensen",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Karl Kopinski",
+      "cards": 165,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Karla Ortiz",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Keith Garletts",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kekai Kotaki",
+      "cards": 66,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ken Meyer Jr.",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kev Walker",
+      "cards": 386,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kevin Sidharta",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kieran Yanner",
+      "cards": 206,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kim Sokol",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Kirsten Zirngibl",
+      "cards": 9,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "L J Koh",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "LA Draws",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lake Hurwitz",
+      "cards": 52,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lars Grant-West",
+      "cards": 130,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Leanna Crossan",
+      "cards": 28,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Leesha Hannigan",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Leon Tukker",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Leonardo Santanna",
+      "cards": 47,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lie Setiawan",
+      "cards": 130,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Liiga Smilshkalne",
+      "cards": 56,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lindsey Look",
+      "cards": 34,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lius Lasahido",
+      "cards": 112,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Livia Prima",
+      "cards": 53,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lixin Yin",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Liz Danforth",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lorenzo Mastroianni",
+      "cards": 49,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Loïc Canavaggia",
+      "cards": 46,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Luca Zontini",
+      "cards": 52,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Lucas Graciano",
+      "cards": 143,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Magali Villeneuve",
+      "cards": 172,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Marc Simonetti",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Margaret Organ-Kean",
+      "cards": 36,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mark A. Nelson",
+      "cards": 12,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mark Behm",
+      "cards": 55,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mark Poole",
+      "cards": 275,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mark Tedin",
+      "cards": 290,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mark Winters",
+      "cards": 40,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mark Zug",
+      "cards": 156,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Marta Nael",
+      "cards": 59,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Martina Pilcerova",
+      "cards": 61,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mathias Kollros",
+      "cards": 152,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Matt Cavotta",
+      "cards": 153,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Matt Stewart",
+      "cards": 235,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Matthew D. Wilson",
+      "cards": 52,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Maxime Minard",
+      "cards": 46,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Melissa A. Benson",
+      "cards": 99,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Micah Epstein",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Michael C. Hayes",
+      "cards": 26,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Michael Komarck",
+      "cards": 38,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Michael Phillippi",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Michael Sutfin",
+      "cards": 68,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Michele Giorgi",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Bierek",
+      "cards": 88,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Burns",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Dringenberg",
+      "cards": 38,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Kimble",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Ploog",
+      "cards": 24,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Raabe",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mike Sass",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mila Pesic",
+      "cards": 68,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Milivoj Ćeran",
+      "cards": 80,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Min Yum",
+      "cards": 50,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Miranda Meeks",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mirko Failoni",
+      "cards": 31,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Mitchell Malloy",
+      "cards": 10,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Naomi Baker",
+      "cards": 8,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Narendra Bintara Adi",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Nathaniel Himawan",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Nelson DeCastro",
+      "cards": 12,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Nicholas Gregory",
+      "cards": 118,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Nils Hamm",
+      "cards": 170,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Nino Is",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Nino Vecia",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Noah Bradley",
+      "cards": 41,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "NéNé Thomas",
+      "cards": 40,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Néstor Ossandón Leal",
+      "cards": 74,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Olena Richards",
+      "cards": 40,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Olivier Bernard",
+      "cards": 58,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Omar Rayyan",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Oriana Menendez",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Paolo Parente",
+      "cards": 151,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Pat Lewis",
+      "cards": 40,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Paul Bonner",
+      "cards": 19,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Paul Scott Canavan",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Pauline Voss",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Pavel Kolomeyets",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Pete Venters",
+      "cards": 260,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Peter Mohrbacher",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Phil Foglio",
+      "cards": 51,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Philip Straub",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "PINDURSKI",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Piotr Dura",
+      "cards": 72,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ralph Horsley",
+      "cards": 92,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Raluca Marinescu",
+      "cards": 27,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Randy Asplund-Faith",
+      "cards": 45,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Randy Elliott",
+      "cards": 15,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Randy Gallegos",
+      "cards": 176,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Randy Vargas",
+      "cards": 144,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Raoul Vitale",
+      "cards": 79,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ray Lago",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Raymond Swanland",
+      "cards": 160,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Rebecca Guay",
+      "cards": 127,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Richard Kane Ferguson",
+      "cards": 75,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Richard Thomas",
+      "cards": 112,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Richard Wright",
+      "cards": 36,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "rk post",
+      "cards": 104,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Rob Alexander",
+      "cards": 142,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Robin Olausson",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Roger Raupp",
+      "cards": 36,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ron Spears",
+      "cards": 100,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ron Spencer",
+      "cards": 211,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Rovina Cai",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Rudy Siswanto",
+      "cards": 38,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ryan Alexander Lee",
+      "cards": 46,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ryan Barger",
+      "cards": 43,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ryan Pancoast",
+      "cards": 169,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Ryan Yee",
+      "cards": 73,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Sam Burley",
+      "cards": 55,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Sam Guay",
+      "cards": 20,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Sandra Everingham",
+      "cards": 110,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Sara Winters",
+      "cards": 45,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Scott Chou",
+      "cards": 49,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Scott M. Fischer",
+      "cards": 128,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Scott Murphy",
+      "cards": 89,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Seb McKinnon",
+      "cards": 106,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Serena Malyon",
+      "cards": 13,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Sergey Glushakov",
+      "cards": 52,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Sidharth Chaturvedi",
+      "cards": 79,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Simon Dominic",
+      "cards": 132,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Slawomir Maniak",
+      "cards": 215,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Stephan Martiniere",
+      "cards": 20,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Stephen Daniele",
+      "cards": 21,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Steve Argyle",
+      "cards": 95,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Steve Ellis",
+      "cards": 32,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Steve Prescott",
+      "cards": 217,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Steven Belledin",
+      "cards": 162,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Svetlin Velinov",
+      "cards": 312,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Terese Nielsen",
+      "cards": 136,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Thomas Denmark",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Thomas Gianni",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Thomas M. Baxa",
+      "cards": 97,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tiffany Turrill",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Titus Lunter",
+      "cards": 89,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Todd Lockwood",
+      "cards": 72,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tomas Duchek",
+      "cards": 30,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tomasz Jedruszek",
+      "cards": 107,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tommy Arnold",
+      "cards": 22,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tony Foti",
+      "cards": 25,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tony Szczudlo",
+      "cards": 56,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Torstein Nordstrand",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tran Nguyen",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Trevor Claxton",
+      "cards": 37,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Trevor Hairsine",
+      "cards": 24,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tsutomu Kawade",
+      "cards": 17,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tuan Duong Chu",
+      "cards": 53,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tyler Jacobson",
+      "cards": 108,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tyler Walpole",
+      "cards": 46,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Una Fricker",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Uriah Voth",
+      "cards": 62,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Valera Lutfullina",
+      "cards": 56,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Vance Kovacs",
+      "cards": 37,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Victor Adame Minguez",
+      "cards": 143,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Viko Menezes",
+      "cards": 54,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Viktor Titov",
+      "cards": 58,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Vincent Christiaens",
+      "cards": 23,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Vincent Proce",
+      "cards": 97,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Volkan Baǵa",
+      "cards": 180,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Warren Mahy",
+      "cards": 101,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Wayne England",
+      "cards": 94,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Wayne Reynolds",
+      "cards": 164,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Wesley Burt",
+      "cards": 57,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "William O'Connor",
+      "cards": 18,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "William Simpson",
+      "cards": 11,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Willian Murai",
+      "cards": 46,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Winona Nelson",
+      "cards": 131,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Wisnu Tan",
+      "cards": 61,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Wylie Beckert",
+      "cards": 33,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Xabi Gaztelua",
+      "cards": 26,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Xavier Ribeiro",
+      "cards": 53,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Yeong-Hao Han",
+      "cards": 143,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Yigit Koroglu",
+      "cards": 35,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Yohann Schepacz",
+      "cards": 29,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Yongjae Choi",
+      "cards": 92,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "YW Tang",
+      "cards": 38,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Zack Stella",
+      "cards": 108,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Zak Plucinski",
+      "cards": 7,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Zara Alfonso",
+      "cards": 20,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Zezhou Chen",
+      "cards": 86,
+      "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Zoltan Boros",
+      "cards": 232,
+      "source": "casualplaneswalker.com"
+    }
   ]
 }
