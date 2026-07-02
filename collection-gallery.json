@@ -1,11 +1,11 @@
 {
   "_meta": {
     "version": "1.0",
-    "last_updated": "2026-06-27",
+    "last_updated": "2026-07-02",
     "description": "Visual gallery index for Gene Park MTG painted AP collection. One entry per physical AP owned. art_crop_url populated at runtime by React app via Scryfall API using set_code + collector_number. back_image_url deferred pending photography. No cost basis or acquisition dates stored here.",
-    "total_pieces": 63,
+    "total_pieces": 65,
     "scryfall_art_crop_endpoint": "https://api.scryfall.com/cards/{set_code}/{collector_number}",
-    "back_image_hosting": "DEFERRED \u2014 to be added when pieces are photographed"
+    "back_image_hosting": "DEFERRED — to be added when pieces are photographed"
   },
   "pieces": [
     {
@@ -252,7 +252,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "Unicorn Plains SLD \u2014 verify collector number",
+      "notes": "Unicorn Plains SLD — verify collector number",
       "scryfall_query": "!\"Plains\" set:SLD"
     },
     {
@@ -269,9 +269,9 @@
       "back_medium": null,
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "LobsterCon custom promo AP 2024 \u2014 Urza's Saga Island art by Donato, unofficial printing",
+      "provenance": "LobsterCon custom promo AP 2024 — Urza's Saga Island art by Donato, unofficial printing",
       "show_exhib": null,
-      "notes": "No Scryfall ID \u2014 custom/unofficial. USG Island art.",
+      "notes": "No Scryfall ID — custom/unofficial. USG Island art.",
       "scryfall_query": null
     },
     {
@@ -385,7 +385,7 @@
       "series_tag": "Benbassat ECL Quartet",
       "provenance": null,
       "show_exhib": null,
-      "notes": "3 copies \u2014 2 Bart portrait backs, 1 thematic diptych",
+      "notes": "3 copies — 2 Bart portrait backs, 1 thematic diptych",
       "scryfall_query": "!\"Moonshadow\" set:ECL"
     },
     {
@@ -404,7 +404,7 @@
       "series_tag": "Benbassat ECL Quartet",
       "provenance": null,
       "show_exhib": null,
-      "notes": "3 copies \u2014 2 Bart portrait backs, 1 thematic diptych",
+      "notes": "3 copies — 2 Bart portrait backs, 1 thematic diptych",
       "scryfall_query": "!\"Moonshadow\" set:ECL"
     },
     {
@@ -423,7 +423,7 @@
       "series_tag": "Benbassat ECL Quartet",
       "provenance": null,
       "show_exhib": null,
-      "notes": "3 copies \u2014 2 Bart portrait backs, 1 thematic diptych",
+      "notes": "3 copies — 2 Bart portrait backs, 1 thematic diptych",
       "scryfall_query": "!\"Moonshadow\" set:ECL"
     },
     {
@@ -499,7 +499,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "Artist Series SLD non-foil \u2014 verify collector number",
+      "notes": "Artist Series SLD non-foil — verify collector number",
       "scryfall_query": "!\"Damnation\" a:\"Seb McKinnon\" set:SLD"
     },
     {
@@ -518,7 +518,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "Artist Series SLD foil \u2014 verify collector number",
+      "notes": "Artist Series SLD foil — verify collector number",
       "scryfall_query": "!\"Damnation\" a:\"Seb McKinnon\" set:SLD"
     },
     {
@@ -746,7 +746,7 @@
       "series_tag": "Bart Portrait Series",
       "provenance": null,
       "show_exhib": null,
-      "notes": "Bart portrait on back \u2014 SLD Artist Series Secret Lair",
+      "notes": "Bart portrait on back — SLD Artist Series Secret Lair",
       "scryfall_query": "!\"Beast Whisperer\" set:SLD"
     },
     {
@@ -765,7 +765,7 @@
       "series_tag": "Bart Portrait Series",
       "provenance": null,
       "show_exhib": null,
-      "notes": "Bart portrait on back \u2014 consecutive SLD #1098",
+      "notes": "Bart portrait on back — consecutive SLD #1098",
       "scryfall_query": "!\"Stitcher's Supplier\" set:SLD"
     },
     {
@@ -822,7 +822,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": "In Miniature III",
-      "notes": "Warm ochre/brown palette \u2014 signed Eggleton 2025",
+      "notes": "Warm ochre/brown palette — signed Eggleton 2025",
       "scryfall_query": "!\"Shivan Raptor\" set:USG"
     },
     {
@@ -841,7 +841,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": "In Miniature III",
-      "notes": "Teal/green palette \u2014 signed Eggleton 2025",
+      "notes": "Teal/green palette — signed Eggleton 2025",
       "scryfall_query": "!\"Veiled Serpent\" set:DMR"
     },
     {
@@ -877,7 +877,7 @@
       "back_medium": "oil/acrylic",
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "ericvelhagen.com \u2014 SOLD OUT $100",
+      "provenance": "ericvelhagen.com — SOLD OUT",
       "show_exhib": null,
       "notes": null,
       "scryfall_query": "!\"Horncaller's Chant\" set:RTR"
@@ -896,7 +896,7 @@
       "back_medium": "oil/acrylic",
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "ericvelhagen.com \u2014 SOLD OUT $100",
+      "provenance": "ericvelhagen.com — SOLD OUT",
       "show_exhib": null,
       "notes": null,
       "scryfall_query": "!\"Tooth and Nail\" set:MMA"
@@ -915,7 +915,7 @@
       "back_medium": "oil/acrylic",
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "ericvelhagen.com \u2014 SOLD OUT $100",
+      "provenance": "ericvelhagen.com — SOLD OUT",
       "show_exhib": null,
       "notes": null,
       "scryfall_query": "!\"Horned Stoneseeker\" set:BRO"
@@ -934,7 +934,7 @@
       "back_medium": "oil/acrylic",
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "ericvelhagen.com \u2014 SOLD OUT $100",
+      "provenance": "ericvelhagen.com — SOLD OUT",
       "show_exhib": null,
       "notes": null,
       "scryfall_query": "!\"Horncaller's Chant\" set:RTR"
@@ -953,7 +953,7 @@
       "back_medium": "ink/watercolor biological surrealist",
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "gallerynucleus.com \u2014 $500",
+      "provenance": "gallerynucleus.com",
       "show_exhib": "In Miniature III",
       "notes": "Erol cited this as his favorite piece. Among very few painted Otus APs in existence.",
       "scryfall_query": "!\"Kokusho, the Evening Star\" set:SLD"
@@ -974,7 +974,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "Framework exception \u2014 gallery CV. Acquired via Donny Caltrider.",
+      "notes": "Framework exception — gallery CV. Acquired via Donny Caltrider.",
       "scryfall_query": "!\"Counterbalance\" set:SLD"
     },
     {
@@ -991,7 +991,7 @@
       "back_medium": null,
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "gallerynucleus.com \u2014 $500",
+      "provenance": "gallerynucleus.com",
       "show_exhib": "In Miniature III",
       "notes": null,
       "scryfall_query": "!\"Oath of Druids\" set:EXO"
@@ -1031,7 +1031,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "1 of 5 remaining \u2014 COA + written provenance. First full colored pencil process piece.",
+      "notes": "1 of 5 remaining — COA + written provenance. First full colored pencil process piece.",
       "scryfall_query": "!\"Darkslick Shores\" set:C14 a:\"Charles Urbach\""
     },
     {
@@ -1088,7 +1088,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "Pink/magenta warrior back \u2014 standard frame Rare #182",
+      "notes": "Pink/magenta warrior back — standard frame Rare #182",
       "scryfall_query": "!\"Eshki Dragonclaw\" set:TDM"
     },
     {
@@ -1126,7 +1126,7 @@
       "series_tag": null,
       "provenance": null,
       "show_exhib": null,
-      "notes": "AKR digital-only set \u2014 Threat's first MTG card. Original oil sold $5,475 Aug 2020.",
+      "notes": "AKR digital-only set — Threat's first MTG card. Original oil sold at auction Aug 2020.",
       "scryfall_query": "!\"Rest in Peace\" set:AKR"
     },
     {
@@ -1162,7 +1162,7 @@
       "back_medium": null,
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "gallerynucleus.com \u2014 $248",
+      "provenance": "gallerynucleus.com",
       "show_exhib": "In Miniature III",
       "notes": null,
       "scryfall_query": "!\"Sudden Edict\" set:MH2 a:\"Ryan Yee\""
@@ -1181,7 +1181,7 @@
       "back_medium": null,
       "subject_type": "card_canonical",
       "series_tag": null,
-      "provenance": "eBay purchase Apr 23 2026 \u2014 Authenticity Guarantee verified",
+      "provenance": "eBay purchase Apr 23 2026 — Authenticity Guarantee verified",
       "show_exhib": null,
       "notes": null,
       "scryfall_query": "!\"Shivan Reef\" set:DMU"
@@ -1204,6 +1204,44 @@
       "show_exhib": null,
       "notes": "Numbered #10/50 in gold by artist. Purchased via Etsy. Foil extended art.",
       "scryfall_query": "!\"Arcane Signet\" set:LCC"
+    },
+    {
+      "piece_id": "BE-03",
+      "artist": "Bob Eggleton",
+      "card_name": "Fiery Mantle",
+      "set_code": "USG",
+      "collector_number": "186",
+      "foil": false,
+      "frame": "standard",
+      "art_crop_url": null,
+      "back_image_url": null,
+      "painting_title": null,
+      "back_medium": null,
+      "subject_type": "card_canonical",
+      "series_tag": null,
+      "provenance": null,
+      "show_exhib": null,
+      "notes": "Flame-dragon back. One of Eggleton's two named co-favorites of his 5-piece proof-back set (Dec 2022). Won on FB secondary-market auction. Signed Eggleton.",
+      "scryfall_query": "!\"Fiery Mantle\" set:USG"
+    },
+    {
+      "piece_id": "LL-01",
+      "artist": "Lindsey Look",
+      "card_name": "Keen Duelist",
+      "set_code": "C21",
+      "collector_number": "42",
+      "foil": false,
+      "frame": "standard",
+      "art_crop_url": null,
+      "back_image_url": null,
+      "painting_title": "Gisa portrait",
+      "back_medium": null,
+      "subject_type": "card_canonical",
+      "series_tag": null,
+      "provenance": null,
+      "show_exhib": null,
+      "notes": "Signed #11/50. Original Gisa portrait on back. Secondary market. (AP is standard frame C21 #42; #369 is the retail Extended Art variant.)",
+      "scryfall_query": "!\"Keen Duelist\" set:C21"
     }
   ]
 }
