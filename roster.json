@@ -5,7 +5,9 @@
     "total_cards_on_site": 36403,
     "note": "Card counts are all-printings including reprints (not unique-art counts). Collaboration entries excluded. Source updates continuously from Scryfall.",
     "last_fetched": "2026-06-26",
-    "count_type": "all_printings"
+    "count_type": "all_printings",
+    "supplemented": "11 verified-MTG artists added that were missing from the casualplaneswalker scrape (confirmed via Scryfall): Erol Otus, Michael Whelan, Julie Benbassat, Diego Andrade, Jeff Easley, Julie Bell, Keith Parkinson, Larry Elmore, M. W. Kaluta, Robh Ruppel, Tim Hildebrandt. Their counts are Scryfall unique:art (source scrape is all-printings) — noted per entry via count_type.",
+    "total_artists_supplemented": 769
   },
   "artists": [
     {
@@ -1769,6 +1771,12 @@
       "source": "casualplaneswalker.com"
     },
     {
+      "name": "Diego Andrade",
+      "cards": 12,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
+    },
+    {
       "name": "Diego Gisbert",
       "cards": 40,
       "source": "casualplaneswalker.com"
@@ -2057,6 +2065,12 @@
       "name": "Ernanda Souza",
       "cards": 28,
       "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Erol Otus",
+      "cards": 6,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
     },
     {
       "name": "Esad Ribic",
@@ -2599,6 +2613,12 @@
       "source": "casualplaneswalker.com"
     },
     {
+      "name": "Jeff Easley",
+      "cards": 53,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
+    },
+    {
       "name": "Jeremy Jarvis",
       "cards": 41,
       "source": "casualplaneswalker.com"
@@ -2804,6 +2824,18 @@
       "source": "casualplaneswalker.com"
     },
     {
+      "name": "Julie Bell",
+      "cards": 11,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
+    },
+    {
+      "name": "Julie Benbassat",
+      "cards": 4,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
+    },
+    {
       "name": "Julie Dillon",
       "cards": 32,
       "source": "casualplaneswalker.com"
@@ -2869,6 +2901,12 @@
       "source": "casualplaneswalker.com"
     },
     {
+      "name": "Keith Parkinson",
+      "cards": 16,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
+    },
+    {
       "name": "Kekai Kotaki",
       "cards": 66,
       "source": "casualplaneswalker.com"
@@ -2917,6 +2955,12 @@
       "name": "Lake Hurwitz",
       "cards": 52,
       "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Larry Elmore",
+      "cards": 14,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
     },
     {
       "name": "Lars Grant-West",
@@ -2997,6 +3041,12 @@
       "name": "Lucas Graciano",
       "cards": 143,
       "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "M. W. Kaluta",
+      "cards": 7,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
     },
     {
       "name": "Magali Villeneuve",
@@ -3107,6 +3157,12 @@
       "name": "Michael Sutfin",
       "cards": 68,
       "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Michael Whelan",
+      "cards": 4,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
     },
     {
       "name": "Michele Giorgi",
@@ -3389,6 +3445,12 @@
       "source": "casualplaneswalker.com"
     },
     {
+      "name": "Robh Ruppel",
+      "cards": 6,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
+    },
+    {
       "name": "Robin Olausson",
       "cards": 33,
       "source": "casualplaneswalker.com"
@@ -3562,6 +3624,12 @@
       "name": "Tiffany Turrill",
       "cards": 18,
       "source": "casualplaneswalker.com"
+    },
+    {
+      "name": "Tim Hildebrandt",
+      "cards": 94,
+      "source": "supplemented — Scryfall (missing from casualplaneswalker scrape)",
+      "count_type": "unique:art"
     },
     {
       "name": "Titus Lunter",
