@@ -1,77 +1,84 @@
-# Artist Prestige Score — Tier-One Roster (v9 · IX Main Show verified via second-hand accounts)
+# Artist Prestige Score — Tier-One Roster (calibrated: Donato = 100, roster = 78)
 
-*0–100. Pillars: Cred 30 / Institutional 45 / Documentary 10 / Legacy 5. Additive: Enchanted + Koder/Eidolon. 'gallery' includes verified juried IX Main Show + Character in Context. IX Main Show confirmed via Hipsters/Mirror Gallery previews + con-reports. `†`=provisional. Social/obtainability/cost excluded.*
+*prestige = raw ÷ 100 (Donato's raw = benchmark), cap 100. **Lucas acquisition = override 100.** raw = Cred(≤30) + Fantasy-inst(≤55: gallery 15/juried 22/gallery+ 28/museum 35/NRM non-plate 40/**NRM plate 55**) + D&D-inst(≤40: books ≤34/**Koder 40**) + Comics-inst(≤55: juried 22/wins ≤34/**Eisner HoF 40**/**Billy Ireland 55**) + Doc(≤10) + Legacy(≤5). `†` provisional · `L` Lucas.*
 
-| # | Artist | Prestige | Cred | Inst(tier) | Doc | Ench | Koder | Obtain |
-|---|---|---|---|---|---|---|---|---|
-| 1 | Brom | **100** | 21 | 30 (gallery+) | 10 | 21 | 20 | limited |
-| 2 | Donato Giancola | **100** | 30 | 45 (museum) | 10 | 25 | 0 | limited |
-| 3 | Michael Whelan | **100** | 24 | 45 (museum) | 10 | 20 | 0 | no |
-| 4 | Bob Eggleton | **93** | 30 | 30 (gallery+) | 10 | 23 | 0 | yes |
-| 5 | Rick Berry† | **78** | 18 | 30 (gallery+) | 10 | 0 | 20 | yes |
-| 6 | Iain McCaig | **73** | 18 | 20 (gallery) | 10 | 20 | 0 | inquiry |
-| 7 | Todd Lockwood | **73** | 18 | 20 (gallery) | 10 | 0 | 20 | yes |
-| 8 | Rebecca Guay | **72** | 12 | 45 (museum) | 10 | 0 | 0 | limited |
-| 9 | Tim Hildebrandt† | **72** | 12 | 30 (gallery+) | 10 | 0 | 20 | no |
-| 10 | Omar Rayyan | **69** | 24 | 30 (gallery+) | 5 | 10 | 0 | yes |
-| 11 | Justin Sweet | **67** | 12 | 20 (gallery) | 5 | 20 | 10 | yes |
-| 12 | Tyler Jacobson | **67** | 12 | 9 (circuit) | 5 | 21 | 20 | yes |
-| 13 | Rovina Cai | **65** | 30 | 30 (gallery+) | 5 | 0 | 0 | drops-only |
-| 14 | Tony DiTerlizzi† | **65** | 15 | 20 (gallery) | 10 | 0 | 20 | limited |
-| 15 | Volkan Baga | **65** | 15 | 45 (museum) | 5 | 0 | 0 | yes |
-| 16 | Clyde Caldwell† | **62** | 12 | 20 (gallery) | 10 | 0 | 20 | yes |
-| 17 | Jeff Easley† | **62** | 12 | 20 (gallery) | 10 | 0 | 20 | yes |
-| 18 | Keith Parkinson† | **62** | 12 | 20 (gallery) | 10 | 0 | 20 | no |
-| 19 | Larry Elmore† | **62** | 12 | 20 (gallery) | 10 | 0 | 20 | yes |
-| 20 | Mark Zug | **62** | 12 | 20 (gallery) | 5 | 20 | 5 | yes |
-| 21 | Dan Dos Santos | **60** | 15 | 30 (gallery+) | 10 | 0 | 0 | yes |
-| 22 | Alessandra Pisano | **59** | 12 | 20 (gallery) | 5 | 22 | 0 | yes |
-| 23 | David Palumbo | **59** | 12 | 20 (gallery) | 5 | 22 | 0 | yes |
-| 24 | Eric Velhagen | **57** | 12 | 20 (gallery) | 5 | 20 | 0 | yes |
-| 25 | Karla Ortiz | **57** | 12 | 20 (gallery) | 5 | 20 | 0 | inquiry |
-| 26 | Robh Ruppel† | **57** | 12 | 20 (gallery) | 5 | 0 | 20 | yes |
-| 27 | Wayne Reynolds† | **57** | 12 | 20 (gallery) | 5 | 0 | 20 | yes |
-| 28 | Tran Nguyen | **56** | 21 | 30 (gallery+) | 5 | 0 | 0 | yes |
-| 29 | Peter Mohrbacher | **50** | 15 | 30 (gallery+) | 5 | 0 | 0 | no |
-| 30 | Allen Williams | **49** | 15 | 9 (circuit) | 5 | 20 | 0 | yes |
-| 31 | Stephan Martiniere | **45** | 15 | 20 (gallery) | 10 | 0 | 0 | inquiry |
-| 32 | Iris Compiet | **42** | 12 | 20 (gallery) | 10 | 0 | 0 | yes |
-| 33 | Ryan Pancoast | **42** | 12 | 20 (gallery) | 5 | 0 | 5 | yes |
-| 34 | Erol Otus | **37** | 12 | 0 (none) | 5 | 0 | 20 | yes |
-| 35 | Michael C. Hayes | **37** | 15 | 20 (gallery) | 2 | 0 | 0 | yes |
-| 36 | Rob Alexander | **37** | 12 | 20 (gallery) | 5 | 0 | 0 | yes |
-| 37 | Elliot Lang | **34** | 12 | 20 (gallery) | 2 | 0 | 0 | yes |
-| 38 | Jeremy Wilson | **34** | 12 | 20 (gallery) | 2 | 0 | 0 | yes |
-| 39 | Kai Carpenter | **34** | 12 | 20 (gallery) | 2 | 0 | 0 | yes |
-| 40 | Matthew Stewart | **34** | 12 | 20 (gallery) | 2 | 0 | 0 | yes |
-| 41 | rk post† | **33** | 12 | 9 (circuit) | 2 | 0 | 10 | yes |
-| 42 | Lindsey Look | **32** | 12 | 0 (none) | 5 | 10 | 5 | yes |
-| 43 | Raoul Vitale | **30** | 18 | 0 (none) | 2 | 0 | 10 | yes |
-| 44 | Cynthia Sheppard | **26** | 12 | 9 (circuit) | 5 | 0 | 0 | inquiry |
-| 45 | Julie Dillon | **26** | 24 | 0 (none) | 2 | 0 | 0 | yes |
-| 46 | Kekai Kotaki | **26** | 12 | 9 (circuit) | 5 | 0 | 0 | yes |
-| 47 | Greg Spalenka | **23** | 18 | 0 (none) | 5 | 0 | 0 | yes |
-| 48 | Jaime Jones | **23** | 12 | 9 (circuit) | 2 | 0 | 0 | inquiry |
-| 49 | Jesper Ejsing | **22** | 12 | 0 (none) | 5 | 0 | 5 | yes |
-| 50 | Sam Burley | **22** | 12 | 0 (none) | 5 | 0 | 5 | yes |
-| 51 | Charles Urbach | **20** | 18 | 0 (none) | 2 | 0 | 0 | yes |
-| 52 | Phil Foglio | **20** | 18 | 0 (none) | 2 | 0 | 0 | yes |
-| 53 | Andrew Mar | **19** | 12 | 0 (none) | 2 | 0 | 5 | yes |
-| 54 | Daren Bader | **19** | 12 | 0 (none) | 2 | 0 | 5 | yes |
-| 55 | Zoltan Boros | **19** | 12 | 0 (none) | 2 | 0 | 5 | yes |
-| 56 | Lucas Graciano | **17** | 15 | 0 (none) | 2 | 0 | 0 | yes |
-| 57 | Ryan Yee | **17** | 15 | 0 (none) | 2 | 0 | 0 | yes |
-| 58 | Seb McKinnon | **17** | 12 | 0 (none) | 5 | 0 | 0 | yes |
-| 59 | Wylie Beckert | **17** | 15 | 0 (none) | 2 | 0 | 0 | yes |
-| 60 | Diego Andrade | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 61 | Eric Wilkerson | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 62 | Gabor Szikszai | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 63 | J.P. Targete | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 64 | Jason Chan | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 65 | Jon Foster | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 66 | Julie Benbassat | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 67 | Kaja Foglio | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 68 | Marc Simonetti | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 69 | Mark Tedin | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 70 | Mitchell Malloy | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
-| 71 | Randy rk Post | **14** | 12 | 0 (none) | 2 | 0 | 0 | yes |
+| # | Artist | Prestige | Cred | Fantasy | D&D | Comics | Doc | Leg | raw |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Brom | **100** | 21 | 55 | 40 | 0 | 10 | 5 | 131 |
+| 2 | Donato Giancola | **100** | 30 | 55 | 0 | 0 | 10 | 5 | 100 |
+| 3 | Julie Bell L | **100** | 12 | 55 | 0 | 0 | 10 | 0 | 77 |
+| 4 | Tyler Jacobson | **100** | 12 | 55 | 40 | 0 | 5 | 0 | 112 |
+| 5 | Rick Berry† | **96** | 18 | 28 | 40 | 0 | 10 | 0 | 96 |
+| 6 | Bob Eggleton | **95** | 30 | 55 | 0 | 0 | 10 | 0 | 95 |
+| 7 | Michael Whelan | **94** | 24 | 55 | 0 | 0 | 10 | 5 | 94 |
+| 8 | Tim Hildebrandt† | **90** | 12 | 28 | 40 | 0 | 10 | 0 | 90 |
+| 9 | Iain McCaig | **88** | 18 | 55 | 0 | 0 | 10 | 5 | 88 |
+| 10 | Todd Lockwood | **88** | 18 | 15 | 40 | 0 | 10 | 5 | 88 |
+| 11 | Bill Sienkiewicz† | **80** | 12 | 28 | 6 | 24 | 10 | 0 | 80 |
+| 12 | Mark Zug | **78** | 12 | 55 | 6 | 0 | 5 | 0 | 78 |
+| 13 | Clyde Caldwell† | **77** | 12 | 15 | 40 | 0 | 10 | 0 | 77 |
+| 14 | Jeff Easley† | **77** | 12 | 15 | 40 | 0 | 10 | 0 | 77 |
+| 15 | Keith Parkinson† | **77** | 12 | 15 | 40 | 0 | 10 | 0 | 77 |
+| 16 | Larry Elmore† | **77** | 12 | 15 | 40 | 0 | 10 | 0 | 77 |
+| 17 | Michael Wm. Kaluta† | **77** | 12 | 15 | 0 | 40 | 10 | 0 | 77 |
+| 18 | Allen Williams | **75** | 15 | 55 | 0 | 0 | 5 | 0 | 75 |
+| 19 | Alessandra Pisano | **72** | 12 | 55 | 0 | 0 | 5 | 0 | 72 |
+| 20 | David Palumbo | **72** | 12 | 55 | 0 | 0 | 5 | 0 | 72 |
+| 21 | Eric Velhagen | **72** | 12 | 55 | 0 | 0 | 5 | 0 | 72 |
+| 22 | Justin Sweet | **72** | 12 | 55 | 0 | 0 | 5 | 0 | 72 |
+| 23 | Karla Ortiz | **72** | 12 | 55 | 0 | 0 | 5 | 0 | 72 |
+| 24 | Robh Ruppel† | **72** | 12 | 15 | 40 | 0 | 5 | 0 | 72 |
+| 25 | Wayne Reynolds† | **72** | 12 | 15 | 40 | 0 | 5 | 0 | 72 |
+| 26 | Omar Rayyan | **69** | 24 | 40 | 0 | 0 | 5 | 0 | 69 |
+| 27 | Rovina Cai | **63** | 30 | 28 | 0 | 0 | 5 | 0 | 63 |
+| 28 | Bryan Talbot† | **62** | 12 | 0 | 0 | 40 | 10 | 0 | 62 |
+| 29 | Rebecca Guay | **62** | 12 | 35 | 0 | 0 | 10 | 5 | 62 |
+| 30 | Dan Dos Santos | **58** | 15 | 28 | 0 | 0 | 10 | 5 | 58 |
+| 31 | Erol Otus | **57** | 12 | 0 | 40 | 0 | 5 | 0 | 57 |
+| 32 | Lindsey Look | **57** | 12 | 40 | 0 | 0 | 5 | 0 | 57 |
+| 33 | Geof Darrow† | **56** | 12 | 0 | 0 | 34 | 10 | 0 | 56 |
+| 34 | Volkan Baga | **55** | 15 | 35 | 0 | 0 | 5 | 0 | 55 |
+| 35 | Tran Nguyen | **54** | 21 | 28 | 0 | 0 | 5 | 0 | 54 |
+| 36 | rk post† | **54** | 12 | 0 | 40 | 0 | 2 | 0 | 54 |
+| 37 | Tony DiTerlizzi† | **52** | 15 | 15 | 12 | 0 | 10 | 0 | 52 |
+| 38 | Peter Mohrbacher | **48** | 15 | 28 | 0 | 0 | 5 | 0 | 48 |
+| 39 | Stephan Martiniere | **40** | 15 | 15 | 0 | 0 | 10 | 0 | 40 |
+| 40 | Michael C. Hayes | **39** | 15 | 22 | 0 | 0 | 2 | 0 | 39 |
+| 41 | Rob Alexander | **39** | 12 | 22 | 0 | 0 | 5 | 0 | 39 |
+| 42 | Ryan Pancoast | **39** | 12 | 22 | 0 | 0 | 5 | 0 | 39 |
+| 43 | Iris Compiet | **37** | 12 | 15 | 0 | 0 | 10 | 0 | 37 |
+| 44 | Elliot Lang | **36** | 12 | 22 | 0 | 0 | 2 | 0 | 36 |
+| 45 | Jeremy Wilson | **36** | 12 | 22 | 0 | 0 | 2 | 0 | 36 |
+| 46 | Kai Carpenter | **36** | 12 | 22 | 0 | 0 | 2 | 0 | 36 |
+| 47 | Matthew Stewart | **36** | 12 | 22 | 0 | 0 | 2 | 0 | 36 |
+| 48 | Dave Dorman† | **29** | 12 | 0 | 0 | 12 | 5 | 0 | 29 |
+| 49 | George Pratt† | **29** | 12 | 0 | 0 | 12 | 5 | 0 | 29 |
+| 50 | John Bolton† | **29** | 12 | 0 | 0 | 12 | 5 | 0 | 29 |
+| 51 | Julie Dillon | **26** | 24 | 0 | 0 | 0 | 2 | 0 | 26 |
+| 52 | Greg Spalenka | **23** | 18 | 0 | 0 | 0 | 5 | 0 | 23 |
+| 53 | Charles Urbach | **20** | 18 | 0 | 0 | 0 | 2 | 0 | 20 |
+| 54 | Phil Foglio | **20** | 18 | 0 | 0 | 0 | 2 | 0 | 20 |
+| 55 | Raoul Vitale | **20** | 18 | 0 | 0 | 0 | 2 | 0 | 20 |
+| 56 | Cynthia Sheppard | **17** | 12 | 0 | 0 | 0 | 5 | 0 | 17 |
+| 57 | Jesper Ejsing | **17** | 12 | 0 | 0 | 0 | 5 | 0 | 17 |
+| 58 | Kekai Kotaki | **17** | 12 | 0 | 0 | 0 | 5 | 0 | 17 |
+| 59 | Lucas Graciano | **17** | 15 | 0 | 0 | 0 | 2 | 0 | 17 |
+| 60 | Ryan Yee | **17** | 15 | 0 | 0 | 0 | 2 | 0 | 17 |
+| 61 | Sam Burley | **17** | 12 | 0 | 0 | 0 | 5 | 0 | 17 |
+| 62 | Seb McKinnon | **17** | 12 | 0 | 0 | 0 | 5 | 0 | 17 |
+| 63 | Wylie Beckert | **17** | 15 | 0 | 0 | 0 | 2 | 0 | 17 |
+| 64 | Andrew Mar | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 65 | Daren Bader | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 66 | Diego Andrade | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 67 | Eric Wilkerson | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 68 | Gabor Szikszai | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 69 | J.P. Targete | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 70 | Jaime Jones | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 71 | Jason Chan | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 72 | Jon Foster | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 73 | Julie Benbassat | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 74 | Kaja Foglio | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 75 | Marc Simonetti | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 76 | Mark Tedin | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 77 | Mitchell Malloy | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
+| 78 | Zoltan Boros | **14** | 12 | 0 | 0 | 0 | 2 | 0 | 14 |
